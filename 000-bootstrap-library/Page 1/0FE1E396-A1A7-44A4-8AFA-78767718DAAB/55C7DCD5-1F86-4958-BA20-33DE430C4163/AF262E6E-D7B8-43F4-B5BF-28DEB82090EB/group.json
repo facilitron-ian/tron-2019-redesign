@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF262E6E-D7B8-43F4-B5BF-28DEB82090EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35B1E0F6-81A1-4C98-8759-200F451E6E55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE6518DE-64A3-4701-9332-45A0BF220A4C",
+    "height": 204,
+    "width": 157,
+    "x": 428,
+    "y": 498
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "689A450C-10AE-4045-84FE-E1DFFEDE1092"
+    },
+    {
+      "class": "text",
+      "id": "1171FA2D-F489-40A7-AD66-A186E51B2D89"
+    }
+  ],
+  "name": "Danger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5EEC4C65-5921-459D-B4CD-42E769BD815F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

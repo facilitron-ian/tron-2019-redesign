@@ -1,0 +1,99 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4D10981A-C61A-4DF1-A846-E6DFF1496CA4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1146,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8B4FBD0-6190-4FC7-9934-5A13B5AD5718",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9928333-E6C1-4860-9780-C98482C7D957",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80E8991B-F677-43EE-82BF-A61E589F3D76",
+    "height": 35,
+    "width": 80,
+    "x": 393,
+    "y": -1081
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5BF6597B-C631-4B3F-B9FA-443F3CA4141A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6A2CFD97-E12C-49C6-9E88-76E20CB7E36C"
+    }
+  ],
+  "name": "⚙️/Text/20/Center/🎨/Contrasted/Danger",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6A2CFD97-E12C-49C6-9E88-76E20CB7E36C_stringValue"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01A0C617-422A-426F-8E46-4F1E309B900F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD9F09C4-BCDF-4014-A587-2F3D8DD1DC39",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A54278AB-E9DA-432D-80F5-A3D8A42F0595",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5077A16-4700-46C0-8A34-26C1E4ABB656",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F1FBF2B-2993-474E-AC1B-D92F12301208",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02535590-0769-4EFF-A408-FC3DB4F5DBE6",
+    "height": 40,
+    "width": 356,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F778FB46-68C8-4B50-B832-F850EFBEE400"
+    },
+    {
+      "class": "text",
+      "id": "33FEFF17-5044-4B9F-B686-477C05B971CE"
+    },
+    {
+      "class": "text",
+      "id": "836E0523-8BF9-45B4-9427-F82238DBBDEA"
+    },
+    {
+      "class": "text",
+      "id": "296B6038-CE55-4B76-B05A-0038EF791643"
+    },
+    {
+      "class": "rectangle",
+      "id": "64137391-6278-4F62-B4ED-782A90E3AC25"
+    },
+    {
+      "class": "shapePath",
+      "id": "6C6A0E60-F652-4DFA-8D95-EB2E2A6B4157"
+    },
+    {
+      "class": "rectangle",
+      "id": "4B932BEF-78BF-4A9C-B24C-2121B4D456F5"
+    },
+    {
+      "class": "text",
+      "id": "3063107D-F5B4-46B5-ADBB-49B6E75C1A18"
+    }
+  ],
+  "name": "top",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F996BA9-35F2-4DCC-B8E5-14C99950B8BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

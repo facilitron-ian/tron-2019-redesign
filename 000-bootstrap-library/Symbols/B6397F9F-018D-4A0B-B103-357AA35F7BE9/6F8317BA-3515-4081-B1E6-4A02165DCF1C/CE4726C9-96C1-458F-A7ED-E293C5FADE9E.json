@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE4726C9-96C1-458F-A7ED-E293C5FADE9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6212DCD4-03B6-4689-8A8C-4716C2A85D97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6198241-D748-4401-899E-2C21F2DDA293",
+    "height": 21,
+    "width": 91,
+    "x": 106,
+    "y": 495
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Link",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "45CDC83A-D8B7-4AA5-8166-F998A11AB292_stringValue",
+      "value": "Another link"
+    }
+  ],
+  "resizingConstraint": 49,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23C8ABA9-FD26-4C9E-A8AE-0862D7A3118B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "08D2C6EF-E81B-4D7E-A515-B0C3CE63D8E3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

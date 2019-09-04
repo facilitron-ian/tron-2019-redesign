@@ -1,0 +1,94 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "52B9E454-7337-442F-8FE2-A84D08B21057",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 521,
+  "clippingMaskMode": 0,
+  "do_objectID": "199F6171-90C0-407B-9687-5630125CE7E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50442622-6F53-434A-B2FE-85F4E6116D60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D6E1B2F-6A87-4631-82B3-7A2179AAB8D9",
+    "height": 18,
+    "width": 57,
+    "x": 2212,
+    "y": -522
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FDB65391-8F45-47F2-9CCF-C518874F6D8E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0A2246FD-9E1D-46DB-B0C0-7534D0172251"
+    }
+  ],
+  "name": "⚙️/Badge/Text Dark",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0A2246FD-9E1D-46DB-B0C0-7534D0172251_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D7AEA13-30BA-43E1-90D8-497FE6BFDC06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5CE1A2D-2BA0-4AD4-AA4A-19678D841904",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "831FADA2-357C-47EB-B7F1-3A2755B1A6BB",
+    "guides": [
+    ]
+  }
+}

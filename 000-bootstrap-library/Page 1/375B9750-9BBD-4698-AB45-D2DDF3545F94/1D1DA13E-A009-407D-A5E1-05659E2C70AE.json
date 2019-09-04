@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1D1DA13E-A009-407D-A5E1-05659E2C70AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74192BA6-F184-4F34-9DA3-8739E8BD0EC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B865DD2B-78DF-49B1-8924-41A1A9EBF5DC",
+    "height": 413,
+    "width": 819,
+    "x": 165,
+    "y": 720
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Jumbotron",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2182117D-64F5-4DC0-9DCC-3A72FA7128D2",
+      "overrideName": "81C434CB-5108-4DD4-ABD0-39747E496BD4/A852971D-64C3-4762-BA91-40561EB71C1B_symbolID",
+      "value": "DE05CA04-AD2C-4EFB-8AD6-018D75DB1890"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46EA7F53-1AFA-4555-8614-A7C26A4EFD80",
+      "overrideName": "81C434CB-5108-4DD4-ABD0-39747E496BD4/18EF4E97-EFD2-4242-BF67-5C0541D8186A/27BA3C8A-F02F-44D5-A020-1A7D42835758_stringValue",
+      "value": "Accept"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9C68505-52D3-4811-8F72-4CFE893E82AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6833BBC5-513A-46E3-80B4-FD7DDF20889F",
+  "verticalSpacing": 0
+}

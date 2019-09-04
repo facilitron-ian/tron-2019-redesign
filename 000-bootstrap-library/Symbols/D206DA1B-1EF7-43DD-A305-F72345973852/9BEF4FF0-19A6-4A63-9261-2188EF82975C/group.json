@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9BEF4FF0-19A6-4A63-9261-2188EF82975C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 413,
+    "width": 819,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6CB406B2-0B91-478C-8BC2-2A258E04E1CC"
+    },
+    {
+      "class": "text",
+      "id": "C3ADDE80-600B-4BC2-ACCC-1FC47709CAA0"
+    },
+    {
+      "class": "text",
+      "id": "313C77F7-4324-4E71-AFFC-5ABCD83C4336"
+    },
+    {
+      "class": "text",
+      "id": "6C4F43D1-70A0-4A36-9432-1B3054A289A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81C434CB-5108-4DD4-ABD0-39747E496BD4"
+    },
+    {
+      "class": "shapePath",
+      "id": "A764C511-41BD-4004-877A-D3D36CB5A5A6"
+    }
+  ],
+  "name": "Jumbotron",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

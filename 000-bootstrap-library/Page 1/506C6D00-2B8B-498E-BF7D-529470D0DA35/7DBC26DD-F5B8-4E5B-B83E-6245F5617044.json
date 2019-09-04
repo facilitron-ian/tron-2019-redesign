@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DBC26DD-F5B8-4E5B-B83E-6245F5617044",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "607B85BF-B4B2-42B7-B881-2041C32AC099",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80FAC8AE-5F9F-4CA9-A682-350513626705",
+    "height": 18,
+    "width": 58,
+    "x": 353.5714285714294,
+    "y": 864
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Badge/Pill Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05371BCB-9CEA-46FB-ADD3-E51C9A749FD0",
+      "overrideName": "7F9C69BA-B848-4CE3-8D9A-548F487F1015_symbolID",
+      "value": "BFD6D8A9-F5AA-4361-9AC4-42BA5D98CEC2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A93EC0F-4C33-4320-9059-415046B2749E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4666E9F5-A4CD-4B01-9DB2-FA2E7D6F2EEE",
+  "verticalSpacing": 0
+}

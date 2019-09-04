@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DBACEBD0-DB4D-4602-8419-22B4A8670B85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9024573-94E9-4267-B205-BBD34D8E33EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CED47D5B-473E-48D2-9179-2061062B92BF",
+    "height": 38,
+    "width": 350,
+    "x": 607,
+    "y": 892
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms/Input/With radio Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A9915036-E65B-4E05-8834-527618592F19",
+      "overrideName": "2E4D11BC-312A-4E14-874C-EF10E61E65D1_symbolID",
+      "value": "2C6F265D-933E-4F7B-B453-2CFFF9374029"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F4561AD-9BF5-47AE-BEA4-98160B93C643",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E4C666BD-B996-4234-850C-974D81C2B4AE",
+  "verticalSpacing": 0
+}

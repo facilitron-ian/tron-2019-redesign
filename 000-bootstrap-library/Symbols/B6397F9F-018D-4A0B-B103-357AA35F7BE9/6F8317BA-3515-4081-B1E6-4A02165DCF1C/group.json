@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F8317BA-3515-4081-B1E6-4A02165DCF1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 541,
+    "width": 288,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5B67521B-9B8C-4549-BD15-49011C9FA3BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78E2BD73-F5F6-4EB1-B8C0-B7E65BA899DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "654E605A-254F-4518-B88E-766CB0B086E5"
+    },
+    {
+      "class": "text",
+      "id": "7935FB7A-3077-4637-9DEB-1FCC10744E92"
+    },
+    {
+      "class": "bitmap",
+      "id": "F2534267-1E14-499E-8FC4-E58D54D38075"
+    },
+    {
+      "class": "text",
+      "id": "E49A4E50-2B82-4D89-84EE-F055FCB3C838"
+    },
+    {
+      "class": "group",
+      "id": "2DA80998-594C-400F-969B-9E4311E95A78"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2F27E3F-32E0-4004-BBB8-62FAA19D9EA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE4726C9-96C1-458F-A7ED-E293C5FADE9E"
+    }
+  ],
+  "name": "Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

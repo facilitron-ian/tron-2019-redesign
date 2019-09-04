@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CBF2ECFC-A699-45AA-BE1D-AC5D4765174D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6829880C-65CE-42BD-BAF4-96AF2D3C7E7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A858E6F4-733B-479D-93FB-DDC0D756F841",
+    "height": 60,
+    "width": 350,
+    "x": 165,
+    "y": 1272
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms/Input/With feedback",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E827F08-C178-4316-A796-D17B45F60A8A",
+      "overrideName": "613065F4-3998-485D-A4C5-7AF089CE309D_symbolID",
+      "value": "822D9B51-25FB-4E44-8E5A-5287B4EB67A9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5098ED65-4C85-4DE6-B532-C27096CAF3AA",
+      "overrideName": "98EDA2C6-58D2-40DC-BEA6-C21CD86D8833_symbolID",
+      "value": "A9755845-721A-4625-A74E-B7D594EDE8E3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93CEBA9D-0E15-40F1-9F8B-9405F9362ED3",
+      "overrideName": "613065F4-3998-485D-A4C5-7AF089CE309D/0B8FB67C-DC30-4919-987B-0DC3038836F3_stringValue",
+      "value": "More custom feedback"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "81F8A2ED-9BD9-4D4B-A0CA-FC2ED6CD13F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C8260FFE-55E4-4993-8EE5-8A6D4CFCD017",
+  "verticalSpacing": 0
+}

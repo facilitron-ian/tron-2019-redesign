@@ -38,6 +38,16 @@
       "do_objectID": "231C479E-5DE9-4C27-9454-3BA4C6916980",
       "overrideName": "CB098590-9FEF-44F1-8993-EE075FF2D5FB_stringValue",
       "value": "Facilitron Famous"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CCB3CAF-88DE-4B2C-8C39-E66D2D97077A",
+      "overrideName": "3039A6C7-D044-4DCD-8CB8-1ED843B670ED_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0179ade8b1d95bd3858f686e0a6b1f974d0dbf54.png",
+        "_ref_class": "MSImageData"
+      }
     }
   ],
   "resizingConstraint": 63,

@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFFF8AE0-D1C5-4E31-A40E-88A5E83D46E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 384,
+    "width": 288,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CBBC004A-1974-4D0B-B503-29AF33820DC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39E00139-8ED3-4751-89E2-7A386380CC64"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6F2147A-C240-4854-AC92-10A6925EBFD0"
+    },
+    {
+      "class": "bitmap",
+      "id": "A988EC3C-E6E2-4EFC-BBD0-6E5B51CE81A7"
+    },
+    {
+      "class": "text",
+      "id": "769A6240-F531-4E31-B46B-80BF61D9B461"
+    },
+    {
+      "class": "text",
+      "id": "3BCF5D16-A3F6-45F1-AFF2-73DCD122978D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8A3A74A-F4B5-4D46-BC83-3F06D3AD539D"
+    }
+  ],
+  "name": "Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

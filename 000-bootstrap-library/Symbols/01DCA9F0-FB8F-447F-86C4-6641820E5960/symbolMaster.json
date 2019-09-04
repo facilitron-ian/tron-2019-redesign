@@ -1,0 +1,89 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0A2084CB-5521-4A0D-8328-7D05B40757B7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1241,
+  "clippingMaskMode": 0,
+  "do_objectID": "01DCA9F0-FB8F-447F-86C4-6641820E5960",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C76107E-AA47-40D2-B774-52C82D9F1B05",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83B378BC-E41A-45B3-A6B1-0A0B91B052D8",
+    "height": 18,
+    "width": 57,
+    "x": 511,
+    "y": -456
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "43F03BB5-6D61-4EB9-A7A7-D797D39BDB35",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9322D21F-5B1C-48FE-A404-1C06FB6C2F6B"
+    }
+  ],
+  "name": "⚙️/Badge/🎨/Light",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F87F694E-65AD-463A-819C-61C77D266F28",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4CCACEF4-3D98-4F1B-840C-40087841FBD9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "91B1AC6B-398A-41BD-A9CA-C3CAD1C2D2FA",
+    "guides": [
+    ]
+  }
+}

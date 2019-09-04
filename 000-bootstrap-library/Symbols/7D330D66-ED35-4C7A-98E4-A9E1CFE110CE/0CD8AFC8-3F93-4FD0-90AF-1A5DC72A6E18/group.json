@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CD8AFC8-3F93-4FD0-90AF-1A5DC72A6E18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 336,
+    "width": 709,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6B9B8DD8-C429-4015-9E83-1F4CAA799669"
+    },
+    {
+      "class": "text",
+      "id": "CAC3E26A-39B7-4B32-9EB4-7A100976F47B"
+    },
+    {
+      "class": "text",
+      "id": "571C82BE-C227-472E-B59D-4264941D48AC"
+    },
+    {
+      "class": "text",
+      "id": "72EDA979-5633-4B27-AFA0-89889D1F20CB"
+    },
+    {
+      "class": "bitmap",
+      "id": "75C55DF4-A9BE-42F0-A8E2-6EC848342856"
+    }
+  ],
+  "name": "Card/Image",
+  "nameIsFixed": true,
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

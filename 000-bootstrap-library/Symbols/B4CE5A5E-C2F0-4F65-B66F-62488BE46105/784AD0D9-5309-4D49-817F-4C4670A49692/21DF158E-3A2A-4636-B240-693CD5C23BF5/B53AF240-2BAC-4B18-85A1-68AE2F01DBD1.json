@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B53AF240-2BAC-4B18-85A1-68AE2F01DBD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45E91344-0915-45A1-80E2-075B80F6B258",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F266EB7-F73F-491F-9736-AFBAB625BD6F",
+    "height": 18,
+    "width": 35,
+    "x": 349,
+    "y": 17
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Badge/Pill",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6A4A61B-883F-426A-9F7C-1EF0C0FE574B",
+      "overrideName": "96A5F57A-B979-4EC5-9AE6-86B64E9F5FD4/E803B6EC-E8B6-4BC8-9DF3-90E97000FA3B_stringValue",
+      "value": "999"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF323FD7-6C09-459C-B22E-5E3972EF0A6A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4666E9F5-A4CD-4B01-9DB2-FA2E7D6F2EEE",
+  "verticalSpacing": 0
+}
