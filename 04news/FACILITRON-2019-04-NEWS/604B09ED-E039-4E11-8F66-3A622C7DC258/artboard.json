@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "259AFB8D-89DC-4D54-91C0-B116318A3B0E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "604B09ED-E039-4E11-8F66-3A622C7DC258",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "236DC11F-6A8D-4C08-9E01-B27100E477C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42458A25-B12A-427A-AFB4-35FBAE6A0436",
+    "height": 4830,
+    "width": 1200,
+    "x": 491,
+    "y": 2737
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "A7A88251-1D3A-49B7-8579-61088A1DA0F3",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1A5611B7-9B11-4DCC-AC1A-60E1F03996D6"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "882945F4-94DF-4F55-8FFC-CE72BFD7ABE9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D82E7BF8-BF35-4505-9E0E-72A1ADA80823"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E131BBDE-9476-498F-A1C8-E9B8B6706A32"
+    },
+    {
+      "class": "text",
+      "id": "70BE8FAD-A6F1-44F9-822B-A31246B7D467"
+    },
+    {
+      "class": "text",
+      "id": "08C5EB3C-313C-404F-9BFB-73384F0C68C8"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "11DB9EB1-5CD1-4AB0-817A-84711ACFCB79",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "04news/02-facilitron-famous/ralph-caravello",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "395DA216-582A-4BC1-A841-77416BEE7E2D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "DDHrwQyxcHgC05HiwqvSvcc3wyRZFrPrGxaNb2HiqrU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CC34D9FC-5BDF-4234-81F3-6622B839D17C",
+    "guides": [
+    ]
+  }
+}

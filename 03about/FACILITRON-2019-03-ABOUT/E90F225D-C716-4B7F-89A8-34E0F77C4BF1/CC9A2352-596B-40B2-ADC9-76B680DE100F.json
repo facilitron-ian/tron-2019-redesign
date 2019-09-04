@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC9A2352-596B-40B2-ADC9-76B680DE100F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E41BB3C-9962-4CCA-A159-C1107D1A6919",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB23F4D1-6420-4BB5-A25C-32ABA9F366D8",
+    "height": 400,
+    "width": 368,
+    "x": 417,
+    "y": 2979
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Team-member Copy 15",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3841A969-D019-4CF1-BC86-42856EB75208",
+      "overrideName": "FBAA93CC-7788-4F2A-A40F-FD8F7BD65452_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/22e0e44e0adc738453b126266257825c088a5896.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C25DDC23-471F-4F2E-899A-9214052C8B86",
+      "overrideName": "9BDD185D-CECF-49EB-B490-2EFD9544367D_stringValue",
+      "value": "President"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95BA58B0-C0E8-4915-AC1F-3C1726B2DEA1",
+      "overrideName": "DE8C54DB-CA4C-48A4-8B6A-5A650FCBE144_stringValue",
+      "value": "Mike Kapul"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7951B615-A92F-427A-A7F9-0C8DDC1FB5D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "768650CB-CADB-4F27-BE99-9FC716DF9757",
+  "verticalSpacing": 0
+}

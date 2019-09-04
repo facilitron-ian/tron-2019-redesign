@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD41A18E-4A24-4463-9EE9-342F2027DA43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F416114A-68C8-4390-ABB1-7A1490518559",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D669E8F1-64F7-43C7-A22A-B9207C43879E",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14F318B1-BCC5-499D-80F0-3306629ABD03",
+      "overrideName": "CB098590-9FEF-44F1-8993-EE075FF2D5FB_stringValue",
+      "value": "Balancing School Facility Use Between School and Community"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70E02E14-AB7E-41EF-8B9A-466F46BD7651",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CBA090B0-468F-42D6-8489-C6FCEE8ACD7C",
+  "verticalSpacing": 0
+}

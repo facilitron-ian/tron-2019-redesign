@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E20D5526-1C3B-46AA-A76A-3F0F9EFDFA41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90F56928-3C20-44B2-AE93-9240D2BA4B12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21552270-F12F-4B2B-AC97-B9094C5F5CDD",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2146781F-30AE-47CE-A98B-C16106B0716B",
+      "overrideName": "0F36DB8C-55A4-40A2-A71A-FEFD3E4E488A_stringValue",
+      "value": "Facilitron Rentals for Education"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41214301-EC11-420F-9FC9-1555502A8D35",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4C856611-5FC4-4933-9934-13E078888D6C",
+  "verticalSpacing": 0
+}

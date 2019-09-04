@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2C9A9B6-F372-4F2C-B7DB-4A763EDD18BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2188FF5-6FB6-4669-9089-0BEB22A667E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C5EE1F7-7672-4074-9ABF-F5B7B874502B",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B96E0BA2-E130-42AD-9959-A7B311E62C22",
+      "overrideName": "3BE4A641-D925-41FB-BB37-E552590F64BD_stringValue",
+      "value": "Facility Management Platform Overview"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "044AFE8F-8B9B-48CD-A8F5-E4C792B26662",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "939206CD-DD01-4866-BD3E-A6D57BB33109",
+  "verticalSpacing": 0
+}

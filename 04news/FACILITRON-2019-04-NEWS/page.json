@@ -1,0 +1,94 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "297425CD-93A7-42D0-BA28-0781BB5AFB5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "0E729B15-56D9-4F54-8605-AFBDE46CF586"
+    },
+    {
+      "class": "artboard",
+      "id": "604B09ED-E039-4E11-8F66-3A622C7DC258"
+    },
+    {
+      "class": "artboard",
+      "id": "A4FC5849-0B3F-446D-A583-90E092967006"
+    },
+    {
+      "class": "artboard",
+      "id": "45124143-A3A0-4ACA-A5B8-11203802B158"
+    },
+    {
+      "class": "artboard",
+      "id": "0759C240-C368-4C5D-9271-741BC354BD76"
+    },
+    {
+      "class": "artboard",
+      "id": "F91DEB55-9594-4748-9F87-131445BB9779"
+    },
+    {
+      "class": "artboard",
+      "id": "0DF5679F-65D1-424A-AEF5-1333716BCB85"
+    },
+    {
+      "class": "artboard",
+      "id": "18AAFC79-980F-4681-A05C-5EB30B0AEC4E"
+    }
+  ],
+  "name": "FACILITRON-2019-04-NEWS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

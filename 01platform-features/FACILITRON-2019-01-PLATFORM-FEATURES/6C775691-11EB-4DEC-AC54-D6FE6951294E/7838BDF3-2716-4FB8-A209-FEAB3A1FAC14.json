@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7838BDF3-2716-4FB8-A209-FEAB3A1FAC14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B792A1E2-480F-4664-8FC2-90B5B7B62A5A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "172D998E-E588-4F30-93B8-068896810A8B",
+    "height": 479,
+    "width": 470,
+    "x": 615,
+    "y": 1850
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "benefit-card copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D9BCB35-DE61-4BEF-8340-ABBBE129B705",
+      "overrideName": "A6063AE9-753D-4073-88F1-D3D3D706556E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5cb608d997835496ee57f36c84878249dec0b048.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CB7E107-73D2-425D-90A3-2F6D755706B0",
+      "overrideName": "97897D41-8456-4277-85BA-4D7FA6D47EC8_stringValue",
+      "value": "Individual school sites"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7D6D6B0-6847-40CF-B724-7A7B4FE60C69",
+      "overrideName": "FEDDFAB7-C68E-418D-8323-569520C4614F_stringValue",
+      "value": "School sites make it easy to browse photos, pricing, and availability of facilities for rent."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBC999C5-4098-49CE-98AC-1FABA0F0E308",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7ECE5243-52B5-4268-AD02-6BF07CA36260",
+  "verticalSpacing": 0
+}

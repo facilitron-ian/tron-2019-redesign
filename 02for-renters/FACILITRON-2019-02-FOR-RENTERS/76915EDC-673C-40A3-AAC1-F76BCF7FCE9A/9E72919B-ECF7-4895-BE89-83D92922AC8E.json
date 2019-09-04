@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E72919B-ECF7-4895-BE89-83D92922AC8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87CB8CE0-BAA0-4DE2-B983-BFABB7F2679E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F87DB95-1550-4D4C-9589-C8F16C5EBF76",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CCE17225-56A1-48B9-9378-A45D706C3938",
+      "overrideName": "0F36DB8C-55A4-40A2-A71A-FEFD3E4E488A_stringValue",
+      "value": "Facilitron Rentals for Sports"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10EE9E91-E518-4CDC-8782-4EE08CCC6D7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4C856611-5FC4-4933-9934-13E078888D6C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,206 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D121617A-B724-445A-AD7D-955C29E14BDB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E90F225D-C716-4B7F-89A8-34E0F77C4BF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A08F67B8-14D1-47EE-A93F-88C4AB34A6F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D564BDD5-33D0-4931-B2B8-2D9488F489C0",
+    "height": 4830,
+    "width": 1200,
+    "x": -159,
+    "y": -1532
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "CE16C7B9-F242-49C8-A7C0-FDB8584DC73D",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "15B48CFC-10B8-4DE1-AB2B-2DBFF0AC444B"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8DAB45AA-D5D2-41DE-993A-87798A53AE7A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "282364B7-1734-4E24-BD26-EFBB4C4D9BC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "998E9B2F-E8B7-42DA-849B-720F5CD65EA1"
+    },
+    {
+      "class": "text",
+      "id": "5736D4C5-00DD-41DD-AA6D-BCA6CE45F372"
+    },
+    {
+      "class": "text",
+      "id": "B36132BD-00C5-4D88-84A1-58F6AFBDE81A"
+    },
+    {
+      "class": "text",
+      "id": "7DAFD244-B188-4A76-9740-A7AC6F4356C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDFD83BC-0E9B-42F9-AB44-D6E8321F8D51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08753AB9-8377-4103-877E-26B22136365A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB9E1E14-3CEC-431D-82E9-C10537A6CD36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FA3B7D2-4041-4B68-84E5-99CE5F5506FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7F83780-9BBF-48AC-B9E0-9106EEF17AD9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "131BE6D9-6D2A-4824-BC23-0E06FF67E79E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CEE1944F-F548-49A7-88A3-8ACA8235B47B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E22B8B9-8B2D-4D37-A76D-70E5E4D3FA81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89A0875D-32C4-4510-8172-F9EC3D7421AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC9A2352-596B-40B2-ADC9-76B680DE100F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1AF2FDB-8334-4D9E-8B24-0A44CF631D34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A51B5FE-E1DD-4B81-97EE-DB60232ECADD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "500A31C7-931F-4467-BE76-4C980D0FD6C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84E33003-AC31-4A67-8347-3A5893248395"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DE5DB94-C47F-4B8D-A649-6BBDFF624177"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8342EBA6-2802-4862-BFDE-B391953CBC1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D86C51EA-7FAB-472D-AD5B-F00A5DF3DF52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84F6487E-6836-4961-B6A7-08FA1462B136"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A7AD9E2-112B-4460-BC85-A888A8EED1ED"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "42FCF22A-8757-48A4-8FC3-61284EA3E79B",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "03about/02-facilitron-team",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E9833E1-24A7-4D86-BE97-CD88477C15DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "IxzG6MsBeCJH1Ii4UBBYZxCjsx9IL7O4gBXxPt44VFA="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6C41A78C-4432-48B7-99A2-642EC8B30A5C",
+    "guides": [
+    ]
+  }
+}

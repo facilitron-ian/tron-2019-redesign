@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8539DBC2-97D7-47B3-880D-B343F6AEDC57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07072931-27F5-4E20-AD60-B3EFEADDCA61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC6DA9BC-66EC-4A91-8C12-0C065353F1FA",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4356B6D7-35B4-4132-BD7F-4898DE001A96",
+      "overrideName": "CB098590-9FEF-44F1-8993-EE075FF2D5FB_stringValue",
+      "value": "Case Study: ESUHSD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B97A03B5-A408-4F04-9302-8107B3857CF5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CBA090B0-468F-42D6-8489-C6FCEE8ACD7C",
+  "verticalSpacing": 0
+}

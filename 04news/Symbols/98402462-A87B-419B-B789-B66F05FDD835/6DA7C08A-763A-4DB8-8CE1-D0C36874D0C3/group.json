@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6DA7C08A-763A-4DB8-8CE1-D0C36874D0C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 35.06493506493506,
+    "width": 150,
+    "x": 15,
+    "y": 21.00000000000001
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DC7CEFC3-6933-4563-879F-06FF3FC1DBEC"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4EBA8B9-94D7-46D2-B9D0-892DE945707B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14524DD2-3E5B-416C-B717-33792CA83DAA"
+    },
+    {
+      "class": "shapePath",
+      "id": "0EBDB34B-A305-4591-A1BC-BC72746C7CED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41AC292B-83E5-4C62-9F30-5F7C1C6300B7"
+    },
+    {
+      "class": "shapePath",
+      "id": "073E529A-2D93-4AAB-BB13-20DDAA387205"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7B30B29-5C06-4E12-B020-46ADE10B4931"
+    },
+    {
+      "class": "shapePath",
+      "id": "B0CE3387-456C-4E59-921C-C1D34681BB18"
+    },
+    {
+      "class": "shapePath",
+      "id": "62D59E0A-51D2-4B72-BDCC-4CCB71BD864F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46CF7D49-675C-4DF2-AE51-A30EF9729A68"
+    },
+    {
+      "class": "shapePath",
+      "id": "C907B97B-5C49-4D8E-95F5-5FDDE5FD3C42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "850C0151-DE4A-4CD8-9183-8D9349B0F9C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3EA4BD48-6FE7-4BD1-BAE4-3EC4D26EF731"
+    }
+  ],
+  "name": "facilitron-logo-reversed",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7726FC1-7FE2-45E4-AFA9-2A6868112571",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34F5E48C-BF72-4624-8107-57304B46BC01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06E083C0-2456-4BCF-BC9F-1734BB0ED1DF",
+    "height": 48,
+    "width": 210,
+    "x": 500,
+    "y": 286
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "button--primary",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AB99EB26-9BD6-41C7-9D11-699711106F93_stringValue",
+      "value": "Schedule a Demo"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8819B8DD-DD91-4C0F-B8C5-FF14A4268653",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4ADAB2CA-90A5-4CE5-ACE0-97F24D055FFF",
+  "verticalSpacing": 0
+}

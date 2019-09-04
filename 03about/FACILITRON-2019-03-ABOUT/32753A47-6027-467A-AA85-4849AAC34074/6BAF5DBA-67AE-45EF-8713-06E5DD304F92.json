@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6BAF5DBA-67AE-45EF-8713-06E5DD304F92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C14EEDA5-D34C-4840-A97C-871C44EECBAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D54B4130-E8B5-4D2D-B384-21CC0F6770DA",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Header Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C4FC9A7-4D37-49E0-B3F1-C88AC62336A3",
+      "overrideName": "2A30D7A0-26AB-482F-A521-10ACE356AADB_stringValue",
+      "value": "About Facilitron"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C23E8D88-762E-4B4B-97AC-7BF3A501521C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3FD6387C-57C8-4D76-9C1F-AD66112EBA8E",
+  "verticalSpacing": 0
+}

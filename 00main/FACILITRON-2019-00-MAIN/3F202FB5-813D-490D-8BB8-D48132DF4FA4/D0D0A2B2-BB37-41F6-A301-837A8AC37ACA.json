@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0D0A2B2-BB37-41F6-A301-837A8AC37ACA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68301AEC-9E14-4A5C-B913-46AC2775A25F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC36F9B1-419D-4413-8390-5880FC9F553C",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6548752-DDC1-45C5-AFBC-3D2CFCA082A7",
+      "overrideName": "8DCED3DF-5214-4DF7-BF8A-EB9CB396B9A0_stringValue",
+      "value": "Press Kit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D31B7F0-0639-4528-8424-9BB53C5FA604",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "008DE65C-84DA-4913-972F-F7B5F11985D8",
+  "verticalSpacing": 0
+}

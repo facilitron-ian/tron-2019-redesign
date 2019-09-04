@@ -1,0 +1,199 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "511BCF2E-49D5-49A6-961A-473E629BB266",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C775691-11EB-4DEC-AC54-D6FE6951294E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D59A14C-6D1B-49B3-8150-1CFB2EFF8A44",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB131780-5901-4C91-A912-E752970A63D1",
+    "height": 5000,
+    "width": 1200,
+    "x": -4534,
+    "y": -2454
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "F98FE592-03B0-417C-9A30-6CBFDE7F41E5",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5EFE0DD1-444A-48E5-B43A-1AEA76D163F8"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1DD2B6E9-910A-4DD0-862E-E1FA485555C4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B3C2C50E-3D3D-4307-A95C-0FE55E9CA6D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "000FD5C7-0F77-40CF-8105-9AB9FBE0A5DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC913663-89F6-412E-BA1D-C3CB13962FC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EA78945-3AF3-4E87-BBC0-B02721EF6076"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0697266F-075D-452C-951F-FB7B29C6C436"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7838BDF3-2716-4FB8-A209-FEAB3A1FAC14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E8A38B3-5516-4FEC-9B24-D4FDC5E6CD27"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2C9A9B6-F372-4F2C-B7DB-4A763EDD18BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E73F97C-F606-412B-946F-6EF869083DD8"
+    },
+    {
+      "class": "text",
+      "id": "0B19E4A9-9287-4356-9736-A04D4339109E"
+    },
+    {
+      "class": "text",
+      "id": "9CC7EAAB-8475-47C5-B5D8-CF3A7967F104"
+    },
+    {
+      "class": "text",
+      "id": "8AE4C444-1B5F-439E-B548-33CD953ED46E"
+    },
+    {
+      "class": "text",
+      "id": "3D71EAB4-67D4-4E4E-85E2-94379DA0C55A"
+    },
+    {
+      "class": "text",
+      "id": "0D888877-60E9-4B8E-9C1A-242EF5D8CAD8"
+    },
+    {
+      "class": "text",
+      "id": "A6EEFA9F-B748-4CB7-9899-CFD7A2DD90A3"
+    },
+    {
+      "class": "text",
+      "id": "9200F16B-C11C-45B4-82AC-423D945BF766"
+    },
+    {
+      "class": "text",
+      "id": "98AA1AB7-BAB8-4BE7-B9F0-802B070CD953"
+    },
+    {
+      "class": "group",
+      "id": "B83EBAEB-4631-4644-B469-D523707042DB"
+    },
+    {
+      "class": "bitmap",
+      "id": "ACD19A15-6710-43D4-8A8D-ED5CE327CFD5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DEF7A26-4F67-4F9D-BEFF-4A1E102CA520"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "18411A36-B205-4674-BAC9-93BAE35130F6",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "01platform-features/01-facility-management-platform-overview",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8417F794-D17E-45D2-BB12-A4D4A4405BFC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "k6yXHwW7lkJ8E6Bg4Qs3d9rgKz5ER82U/Uj9lDP5NtY="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D00473D1-B5D5-4A78-A663-9F066955AE9E",
+    "guides": [
+    ]
+  }
+}

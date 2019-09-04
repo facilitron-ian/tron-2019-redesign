@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "000FD5C7-0F77-40CF-8105-9AB9FBE0A5DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3906441-2227-43FE-ABD1-0B22A7225613",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D258A5AC-47A5-4261-AAC4-A078AD27C325",
+    "height": 479,
+    "width": 470,
+    "x": 115,
+    "y": 1852
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "benefit-card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "769FEFAC-5FA4-4C49-84E7-43270B3C634E",
+      "overrideName": "A6063AE9-753D-4073-88F1-D3D3D706556E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ca055e3a21a3e1838c4cdd3b0752440359c3a347.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43ED7A96-9E02-409F-AF98-7CC289F9F5BF",
+      "overrideName": "97897D41-8456-4277-85BA-4D7FA6D47EC8_stringValue",
+      "value": "Parent sites for districts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C9F82DD-7C29-4CE4-8E29-F50FD9192470",
+      "overrideName": "FEDDFAB7-C68E-418D-8323-569520C4614F_stringValue",
+      "value": "District sites provide an overview of all of the schools in the district, with their facilities."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF435DF3-48F2-4EE5-9CF8-A6F538D161DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7ECE5243-52B5-4268-AD02-6BF07CA36260",
+  "verticalSpacing": 0
+}

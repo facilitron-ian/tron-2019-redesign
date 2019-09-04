@@ -1,0 +1,94 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0166DD1-5719-46AD-B1DB-0CE4A6999B2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "8F343F6C-4162-446E-8848-1EDF9E1BB22A"
+    },
+    {
+      "class": "artboard",
+      "id": "437FD888-B62C-4D3A-BAC2-C03CAC48631D"
+    },
+    {
+      "class": "artboard",
+      "id": "F8A82420-2CF7-4B05-8A87-66D020D4D73E"
+    },
+    {
+      "class": "artboard",
+      "id": "1ECB7383-4E75-4631-BB4E-24B0C9B80531"
+    },
+    {
+      "class": "artboard",
+      "id": "F69EA6A5-A53A-495A-AD29-9936918727D4"
+    },
+    {
+      "class": "artboard",
+      "id": "45C200AF-F8AD-49B4-B785-867B6306C5BF"
+    },
+    {
+      "class": "artboard",
+      "id": "9CE5F5A8-8532-40CF-88F2-0794DA1A0E1A"
+    },
+    {
+      "class": "artboard",
+      "id": "6C775691-11EB-4DEC-AC54-D6FE6951294E"
+    }
+  ],
+  "name": "FACILITRON-2019-01-PLATFORM-FEATURES",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
