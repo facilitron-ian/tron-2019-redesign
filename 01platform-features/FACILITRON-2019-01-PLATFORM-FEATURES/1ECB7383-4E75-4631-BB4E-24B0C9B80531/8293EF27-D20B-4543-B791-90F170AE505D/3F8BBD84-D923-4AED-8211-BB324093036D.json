@@ -1,0 +1,112 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374566,
+            "green": 0.2901752889,
+            "red": 0.2902216315
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
+          }
+        },
+        "length": 1118,
+        "location": 0
+      }
+    ],
+    "string": "During implementation, we introduce your district’s Account Manager who becomes involved with training key staff and getting to know your district - its renters, its administrators and its policies. AMs then work with the district on a day-to-day basis assisting and supporting to help relieve the burden of routine but time-consuming admin tasks like insurance verification or collections.\n\nThen on an ongoing basis, our Account Managers along with our Customer Support continue to assist district administrators, faculty and facility requestors - whether school-related groups or community groups - with day to day questions, ongoing training, best practices, adjustments and more.\n\nAmong the ways AMs and CS representatives assist…\n\nOnsite training and support for admins\nReservation adjustments and management assistance\nInvoicing, payment processing, collections, refunds\nCustom reports\nBest practices\n24/7 renter support for new and existing reservations\nCommunity inquiries and questions\nInsurance and non-profit verification\nAvailability and reservation repurposing or rescheduling\nChanges/Edits\nCommunications"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F8BBD84-D923-4AED-8211-BB324093036D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E066B4F-60F3-45E3-B52F-E457993DFFED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F721801-4189-4973-AEE9-9A294D61AD5C",
+    "height": 624,
+    "width": 670,
+    "x": 0,
+    "y": 134
+  },
+  "glyphBounds": "{{0, 6}, {664, 613}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "lineSpacingBehaviour": 2,
+  "name": "During implementatio",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "8C7670DF-C950-4397-85D9-F5E5CD40C132",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80EDE335-4A06-404F-AE29-E5FE113E63D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "0D0E7733-6B97-4D24-8D83-E892F9A65B95",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374566,
+          "green": 0.2901752889,
+          "red": 0.2902216315
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans",
+            "size": 18
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 26,
+          "minimumLineHeight": 26
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

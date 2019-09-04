@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD8AA0C7-ABE4-4C3A-910E-146DA26CDF70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C28D0AAA-C729-4A20-9A61-B01B233789CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "829043F8-B19B-4F97-8861-B8E9513AFBBB",
+    "height": 341,
+    "width": 1425,
+    "x": 135,
+    "y": 1553
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7595C270-FCA3-4D0C-B11F-52D8E6818F74"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "248B369B-C402-4FE8-AE12-3E08182C079B"
+    },
+    {
+      "class": "rectangle",
+      "id": "F86810E5-2656-445B-9869-7E399C8C5B65"
+    },
+    {
+      "class": "rectangle",
+      "id": "6443F708-8C67-49CC-9854-0F1AEEC9F510"
+    },
+    {
+      "class": "rectangle",
+      "id": "9B8BAA80-EE0D-4B9E-98C6-9ED024032FBD"
+    },
+    {
+      "class": "text",
+      "id": "ED048E5F-E58E-42D3-A040-648A58847AF8"
+    },
+    {
+      "class": "text",
+      "id": "1EECE53B-E942-4DA0-B56A-F19DF50BE050"
+    },
+    {
+      "class": "text",
+      "id": "E8006F2F-E833-4411-B5E6-90033033EECB"
+    },
+    {
+      "class": "text",
+      "id": "31FA98AD-8425-4782-882A-97B23431E390"
+    },
+    {
+      "class": "text",
+      "id": "2452DA01-F21B-4018-AAC1-302294C3B620"
+    },
+    {
+      "class": "text",
+      "id": "2CAFE584-113D-406B-8864-8588560F3EB8"
+    },
+    {
+      "class": "text",
+      "id": "DE3E9D55-59D6-4497-8AC5-8376308F5BBC"
+    },
+    {
+      "class": "group",
+      "id": "6878AF25-80CD-423F-82B7-694E4EFEB209"
+    }
+  ],
+  "name": "local_facilities",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "171A6174-376A-4C72-9743-250CDF57F04F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

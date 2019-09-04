@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "06640D8E-5904-4BCB-9C17-50B1415367E0",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "18AAFC79-980F-4681-A05C-5EB30B0AEC4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2DD669BA-F053-4BCD-9E1A-E0BC009BEF72",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56FB1F20-AB11-4198-963C-A14D83CEB035",
+    "height": 4830,
+    "width": 1200,
+    "x": -809,
+    "y": -11903
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "21CD90CE-6CEA-4A53-A4B5-044831B3B1AE",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B4E6CE14-2C22-493D-A432-D7E4A9DE5D22"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "55D648C1-B2C0-48B7-8FB0-88806BA799FF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "107A899D-35C4-41C6-B0BA-F76C13B1A724"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B5F8586-36DC-4C6A-82BD-4F6A0B1865DC"
+    },
+    {
+      "class": "text",
+      "id": "0C420C97-E7AE-4ABA-9A7E-701CAEB6B5B3"
+    },
+    {
+      "class": "text",
+      "id": "94354E73-A978-4465-8BAD-5D2B0046352E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "5805D202-DCF9-4731-94FB-BCFD9C04D680",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "04news/01-case-studies",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2C8BF3B-8F63-4252-8C63-56D4FF3CDD67",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "DDHrwQyxcHgC05HiwqvSvcc3wyRZFrPrGxaNb2HiqrU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "994E6A9D-D810-4095-88C6-6C548794590C",
+    "guides": [
+    ]
+  }
+}

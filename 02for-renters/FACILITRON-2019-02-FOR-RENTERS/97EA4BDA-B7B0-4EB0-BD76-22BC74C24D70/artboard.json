@@ -1,0 +1,134 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "51EC41C1-3C26-4F5A-8636-DBD52F6F56BD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "97EA4BDA-B7B0-4EB0-BD76-22BC74C24D70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E6FB9C9F-AE9F-4920-BCC1-C5A439018A7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A175E19-AA7C-4C19-9F19-70C1694E8D32",
+    "height": 3637,
+    "width": 1200,
+    "x": 1716,
+    "y": -935
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "B305F4F1-F2F3-4B29-8036-6447ADD1A369",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FC168674-AE27-45AD-A41B-B651D1821E54"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E5FD6FCE-E827-4BDF-A378-CA3B14F3BE82",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9C3961D0-7491-4FF1-A8E0-06342CB5544B"
+    },
+    {
+      "class": "group",
+      "id": "8C8B030C-E336-49B2-A878-D1BC59BBF72A"
+    },
+    {
+      "class": "group",
+      "id": "93102F40-2511-4215-AEE9-44DAD641947F"
+    },
+    {
+      "class": "group",
+      "id": "63B6848A-AAA6-483C-806F-321176E6C159"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D47C73EE-1127-46EC-9349-8DC1EDFE37A3"
+    },
+    {
+      "class": "group",
+      "id": "37D53114-F9E2-45F0-BD04-FF6BDDD5DA35"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "81B5F378-19A7-4382-8EC2-AEFB18819301",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "02for-renters/05-religious-groups",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B13AE8B8-8412-4893-BBB4-7AC89A1A2242",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "k6yXHwW7lkJ8E6Bg4Qs3d9rgKz5ER82U/Uj9lDP5NtY="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CE66CC4F-88CF-4BE6-B33E-9655E15AFE92",
+    "guides": [
+    ]
+  }
+}

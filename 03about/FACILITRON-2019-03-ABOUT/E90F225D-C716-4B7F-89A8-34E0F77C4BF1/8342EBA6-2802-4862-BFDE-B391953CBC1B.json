@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8342EBA6-2802-4862-BFDE-B391953CBC1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "983EDCD9-C065-4819-9E17-F87BEE1C25E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71BE966D-CEE9-47C4-B2F2-01DB53960FC2",
+    "height": 400,
+    "width": 368,
+    "x": 817,
+    "y": 2979
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Team-member Copy 17",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3841A969-D019-4CF1-BC86-42856EB75208",
+      "overrideName": "FBAA93CC-7788-4F2A-A40F-FD8F7BD65452_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/96eca0a52f7a5d7aabb0e261d1b40cf3a117efa5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "134F8A3A-D23C-4719-B8B9-6612A2849FC9",
+      "overrideName": "9BDD185D-CECF-49EB-B490-2EFD9544367D_stringValue",
+      "value": "Head of Product"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5F8C0D9-1D35-439F-A410-0D9C688E1B83",
+      "overrideName": "DE8C54DB-CA4C-48A4-8B6A-5A650FCBE144_stringValue",
+      "value": "Hao Liu"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F156B4E0-E7F6-4A18-8712-FA0AF60ECED3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "768650CB-CADB-4F27-BE99-9FC716DF9757",
+  "verticalSpacing": 0
+}

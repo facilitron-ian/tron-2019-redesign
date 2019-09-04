@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C071625E-28C0-4950-9E01-CE834D1A72BF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F91DEB55-9594-4748-9F87-131445BB9779",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14844537-01D0-4FB3-92BE-FA5763934E86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6469DFC6-35D7-48BC-AC04-5EEB9B60EFBB",
+    "height": 4830,
+    "width": 1200,
+    "x": -809,
+    "y": 7597
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "31295591-B67E-4E66-8152-D100E146F2F3",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "10F81443-0F9B-4232-9A9A-59833D6B5DB5"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "18DAFAA7-7F55-4A99-87C0-75238C188793",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3AFB5F21-9572-4707-A90B-A7864BE115FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8030AF0A-9D8C-48F0-80D5-238173573427"
+    },
+    {
+      "class": "text",
+      "id": "40F9783E-BA99-49A1-8E31-274F3BBA55AF"
+    },
+    {
+      "class": "text",
+      "id": "F6FA75A3-E25D-4584-BBC9-75E8493AFDFF"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "0A27BF17-DF7E-423A-8A52-579F1780A1C6",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "04news/03-blog",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "421C2A9B-9C9A-46A4-B64C-0AE0E2B47B6C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "DDHrwQyxcHgC05HiwqvSvcc3wyRZFrPrGxaNb2HiqrU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DE6B90AD-7D50-433E-92C1-51D86270E53D",
+    "guides": [
+    ]
+  }
+}

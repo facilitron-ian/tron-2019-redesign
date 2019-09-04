@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA0EB20F-1952-4AB5-9479-35D3ECD3FD22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7E5F090-88D6-45F5-8F44-94CC1469D13B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E96C977-FA90-459F-B227-98702A1DC020",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3CA16AF-5A29-4D2B-8B94-9FF8AEE09C95",
+      "overrideName": "2A30D7A0-26AB-482F-A521-10ACE356AADB_stringValue",
+      "value": "Careers at Facilitron"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "522AAB1D-BF1C-4B85-982B-69AF76BC41B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3FD6387C-57C8-4D76-9C1F-AD66112EBA8E",
+  "verticalSpacing": 0
+}

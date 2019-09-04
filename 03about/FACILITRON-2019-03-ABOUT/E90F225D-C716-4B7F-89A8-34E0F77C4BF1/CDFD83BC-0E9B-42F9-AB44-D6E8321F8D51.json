@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CDFD83BC-0E9B-42F9-AB44-D6E8321F8D51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "162F7268-C44C-465F-94F7-22E59EAA27FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07324C0E-BAE9-4726-87EB-9C16F5BBA696",
+    "height": 400,
+    "width": 368,
+    "x": 17,
+    "y": 627
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Team-member",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83D7C9DD-4BC7-4EEB-A177-9BE1E959FD6A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "768650CB-CADB-4F27-BE99-9FC716DF9757",
+  "verticalSpacing": 0
+}

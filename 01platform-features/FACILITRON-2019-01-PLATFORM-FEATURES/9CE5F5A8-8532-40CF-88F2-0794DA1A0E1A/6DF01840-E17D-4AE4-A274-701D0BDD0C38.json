@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6DF01840-E17D-4AE4-A274-701D0BDD0C38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3483B8A1-63B9-4111-B178-D1DD74987E33",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E17B976-55B2-437B-B3E2-50BE415A421B",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73007843-3881-45C5-95AC-669BCF3195D2",
+      "overrideName": "3BE4A641-D925-41FB-BB37-E552590F64BD_stringValue",
+      "value": "School Facility Management Software"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C412D6AF-E2EE-4CBB-8FB3-5EDD65465BE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "939206CD-DD01-4866-BD3E-A6D57BB33109",
+  "verticalSpacing": 0
+}

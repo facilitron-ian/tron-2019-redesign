@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "09A2548F-BC26-46A1-8A87-F654845420BE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "45C200AF-F8AD-49B4-B785-867B6306C5BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "745A056C-3F24-4BFB-AE96-B8C1B77CA776",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EAF180F6-4DC1-481D-A14B-17940D40F9E7",
+    "height": 4338,
+    "width": 1200,
+    "x": -2034,
+    "y": -2454
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "9BF7F68B-AA8A-493F-9FA5-A8F19372B36D",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9B276405-4703-47C1-8C3D-8C73C0A1326B"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C0786C5A-8D0F-4795-9A4A-133E6ED8C6EC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "37FFD893-11AD-4337-A849-5453C55AB70E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "186DDC76-FB14-464D-B389-2DAEB9D26EB2"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "97841E82-5F4B-4A30-9BAE-2E0F9BE5E577",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "01platform-features/03-school-facility-management-scheduling",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1870904E-427E-4CD5-A8E8-AA237E102588",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "k6yXHwW7lkJ8E6Bg4Qs3d9rgKz5ER82U/Uj9lDP5NtY="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "52F701CD-78F6-4FD1-8641-88FC185C56CD",
+    "guides": [
+    ]
+  }
+}

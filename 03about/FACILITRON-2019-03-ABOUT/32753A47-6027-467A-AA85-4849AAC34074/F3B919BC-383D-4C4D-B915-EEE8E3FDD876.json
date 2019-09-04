@@ -1,0 +1,112 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374566,
+            "green": 0.2901752889,
+            "red": 0.2902216315
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
+          }
+        },
+        "length": 918,
+        "location": 0
+      }
+    ],
+    "string": "Founded in 2014 and headquartered in Silicon Valley, Facilitron is transforming the way facilities are discovered, reserved, rented and used across communities – all online and accessible from most personal devices. With all-inclusive services and turn-key apps software, venues can easily be managed, listed, discovered and booked on our cloud Marketplace, minimizing rental risks and vacancies for owners, and assuring affordable on-demand access to the right facilities at the right time for the renters.\n\nWhether a K-12 school district, a community college, a Parks & Recreation department, or a university, you can be up and running on our platform in days. Whether a competitive sports club, or a lunch-time team of colleagues, you can sign up and find on our secure Marketplace the best-priced and highest quality venue for your activities in minutes, with short or long-term rental options, and even insurance!"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3B919BC-383D-4C4D-B915-EEE8E3FDD876",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5A858DB-89D8-4F51-AFCF-A140E1AC2F90",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7091A382-425E-4A16-B3A2-C0CA2EC231D8",
+    "height": 234,
+    "width": 1170,
+    "x": 15,
+    "y": 652
+  },
+  "glyphBounds": "{{0, 6}, {1155, 223}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "lineSpacingBehaviour": 2,
+  "name": "Founded in 2014 and",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "7E3EA031-406C-4824-9D59-5385A55FDF01",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C042F0CE-A332-4A18-9427-846C6A624346",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "8375F8E5-9E7F-41FB-BF78-CADDBEC31A4B",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374566,
+          "green": 0.2901752889,
+          "red": 0.2902216315
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans",
+            "size": 18
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 26,
+          "minimumLineHeight": 26
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

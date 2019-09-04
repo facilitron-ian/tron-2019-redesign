@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4E49CAA1-7DAE-4BD2-A316-5EA3DF66E3EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AABE29C-7262-4C87-8860-200EB1FDC569",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE8E976D-52B2-46E4-85C4-5196FB9C13FB",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "705A81E8-16D5-4BA8-9E0B-A0AC5BC1ADF5",
+      "overrideName": "3BE4A641-D925-41FB-BB37-E552590F64BD_stringValue",
+      "value": "Facilitron vs Dude Solutions"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2307C51C-2837-4263-B6E0-D39B97F6B199",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "939206CD-DD01-4866-BD3E-A6D57BB33109",
+  "verticalSpacing": 0
+}

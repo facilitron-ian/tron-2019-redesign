@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEE1944F-F548-49A7-88A3-8ACA8235B47B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "354385D7-780A-4F3B-A4A0-A3D588F84609",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B772B8F2-08EB-42FE-A63A-5509338C58E2",
+    "height": 400,
+    "width": 368,
+    "x": 17,
+    "y": 1507
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Team-member Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6B58C45-4537-45F8-844F-C70742890AC6",
+      "overrideName": "9BDD185D-CECF-49EB-B490-2EFD9544367D_stringValue",
+      "value": "Head of Implementation"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B17C60FB-B3A5-4FE9-95E5-F3D479149FE6",
+      "overrideName": "DE8C54DB-CA4C-48A4-8B6A-5A650FCBE144_stringValue",
+      "value": "Jared Wagman"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FFD8BB90-F9CB-410D-AD80-C3656830FF5F",
+      "overrideName": "FBAA93CC-7788-4F2A-A40F-FD8F7BD65452_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ced93c08aa3b37c804125f1aa67e4c669c437e09.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E77676D7-52BD-4056-B91A-073BDD79E974",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "768650CB-CADB-4F27-BE99-9FC716DF9757",
+  "verticalSpacing": 0
+}

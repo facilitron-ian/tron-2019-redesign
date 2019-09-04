@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "500A31C7-931F-4467-BE76-4C980D0FD6C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A0CE55E-08A6-4798-81ED-D25ECA7F3299",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC357E9D-B025-44DC-884D-F77A37FED79C",
+    "height": 400,
+    "width": 368,
+    "x": 417,
+    "y": 3419
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Team-member Copy 16",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3841A969-D019-4CF1-BC86-42856EB75208",
+      "overrideName": "FBAA93CC-7788-4F2A-A40F-FD8F7BD65452_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d7e857d79a99994841efeebb9a307f5905b1c9a4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C25DDC23-471F-4F2E-899A-9214052C8B86",
+      "overrideName": "9BDD185D-CECF-49EB-B490-2EFD9544367D_stringValue",
+      "value": "CMO"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95BA58B0-C0E8-4915-AC1F-3C1726B2DEA1",
+      "overrideName": "DE8C54DB-CA4C-48A4-8B6A-5A650FCBE144_stringValue",
+      "value": "Trent Allen"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B475EE5F-98BD-4156-A268-8C34F3B9F85F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "768650CB-CADB-4F27-BE99-9FC716DF9757",
+  "verticalSpacing": 0
+}
