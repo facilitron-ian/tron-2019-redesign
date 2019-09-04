@@ -27,8 +27,8 @@
     "do_objectID": "A73EF7A4-EFD3-4361-8D77-2015E388813C",
     "height": 6072,
     "width": 1200,
-    "x": 491,
-    "y": 7597
+    "x": 5400,
+    "y": 4860
   },
   "grid": {
     "_class": "simpleGrid",
@@ -42,7 +42,7 @@
     "do_objectID": "08DAF120-A1BC-49D2-AFFB-73614FD38928"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
