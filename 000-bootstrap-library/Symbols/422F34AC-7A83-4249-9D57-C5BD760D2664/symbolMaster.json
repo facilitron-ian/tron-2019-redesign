@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 908,
+  "changeIdentifier": 910,
   "clippingMaskMode": 0,
   "do_objectID": "422F34AC-7A83-4249-9D57-C5BD760D2664",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "29AF7C25-0A6D-47D3-8A5E-9CA9282ED435",
     "height": 36,
     "width": 80,
-    "x": 195,
-    "y": -268
+    "x": 17050,
+    "y": 2448
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "OpenSans",
               "size": 20
             }
           },
@@ -57,7 +57,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{20, 6}, {38, 16}}",
+  "glyphBounds": "{{20, 6}, {39, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -110,7 +110,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "OpenSans",
             "size": 20
           }
         },

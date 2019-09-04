@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande",
+              "name": "OpenSans",
               "size": 32
             }
           },
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5E2DD4A7-DA3D-42B2-837F-1457C0A1077C",
-    "height": 38,
-    "width": 185,
-    "x": 468.5,
+    "height": 43,
+    "width": 176,
+    "x": 473,
     "y": 0
   },
-  "glyphBounds": "{{0, 6}, {184, 32}}",
+  "glyphBounds": "{{0, 9}, {176, 33}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande",
+            "name": "OpenSans",
             "size": 32
           }
         },

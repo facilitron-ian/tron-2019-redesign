@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1416,
+  "changeIdentifier": 1418,
   "clippingMaskMode": 0,
   "do_objectID": "ED8F2292-B72D-49D4-AEDE-44B80CCDF56E",
   "exportOptions": {
@@ -29,8 +29,8 @@
     "do_objectID": "8E45942F-D940-448A-833E-B2053C30BFAF",
     "height": 36,
     "width": 189,
-    "x": 327,
-    "y": 355
+    "x": 17780,
+    "y": 408
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
   ],
   "name": "⚙️/Checkbox/Unchecked",

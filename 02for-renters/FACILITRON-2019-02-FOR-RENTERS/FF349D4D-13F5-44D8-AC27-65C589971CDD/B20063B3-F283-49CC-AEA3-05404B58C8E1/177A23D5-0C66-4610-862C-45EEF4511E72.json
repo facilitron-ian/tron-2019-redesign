@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B7726FC1-7FE2-45E4-AFA9-2A6868112571",
+  "do_objectID": "177A23D5-0C66-4610-862C-45EEF4511E72",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "34F5E48C-BF72-4624-8107-57304B46BC01",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "06E083C0-2456-4BCF-BC9F-1734BB0ED1DF",
     "height": 48,
-    "width": 210,
-    "x": 500,
-    "y": 286
+    "width": 272,
+    "x": 498,
+    "y": 358
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,13 +27,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "name": "button--primary",
-  "nameIsFixed": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Large",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "AB99EB26-9BD6-41C7-9D11-699711106F93_stringValue",
+      "do_objectID": "BF209CDD-2FD7-4229-AC45-CFFC15719D9A",
+      "overrideName": "18EF4E97-EFD2-4242-BF67-5C0541D8186A/27BA3C8A-F02F-44D5-A020-1A7D42835758_stringValue",
       "value": "Schedule a Demo"
     }
   ],
@@ -46,12 +45,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8819B8DD-DD91-4C0F-B8C5-FF14A4268653",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4ADAB2CA-90A5-4CE5-ACE0-97F24D055FFF",
+  "symbolID": "1686650B-3566-4FED-BE97-EE9849C68176",
   "verticalSpacing": 0
 }
