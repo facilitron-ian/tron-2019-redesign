@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2511F10-D988-4A81-92F2-0D32335F78F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C23B995-49C9-4164-93ED-9B001111C111",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CAAFF54C-1529-42FB-9FA6-B8D1766981DD",
+    "height": 21,
+    "width": 173,
+    "x": 610,
+    "y": 1232
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Browser/Radio/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ECBEC6E3-89A6-44DD-9281-D11944DFCB99",
+      "overrideName": "1687DAE6-BB6B-4C9A-B148-FE9D8C08368A/C86B34FA-24D1-49A6-A18B-16844A602F5C_symbolID",
+      "value": "058D24AC-313D-49AA-B6BB-F867382D035C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2AD1CFE-2C09-4056-AF56-E2879BDDAD62",
+      "overrideName": "6FA84E71-FA4E-4132-8EA0-4C844DFE65FB_symbolID",
+      "value": "EA11A079-FB3A-4927-BB32-384C9BF470E9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5E42D75-0021-4C11-B1AE-D58B794B81AA",
+      "overrideName": "6FA84E71-FA4E-4132-8EA0-4C844DFE65FB/A5822782-31E3-4DFB-B348-B0C6769D708D_stringValue",
+      "value": "Success radio"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1522F1CA-A8A4-4B53-AA58-091D2FC99E29",
+      "overrideName": "1687DAE6-BB6B-4C9A-B148-FE9D8C08368A_symbolID",
+      "value": "1F67A9D6-C079-4A06-ADDD-15A34CDC7710"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F431E01-94B3-411B-860F-531D80943544",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "34E99A1C-99EB-41D4-A8F2-BBD448DE1A4B",
+  "verticalSpacing": 0
+}

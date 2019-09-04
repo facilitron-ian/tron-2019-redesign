@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2F27E3F-32E0-4004-BBB8-62FAA19D9EA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02F31FC2-F5A6-470A-B2AC-4F18CDC2D9BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF22460C-F75E-4137-B7F5-1322D0B1D66E",
+    "height": 21,
+    "width": 91,
+    "x": 8,
+    "y": 496
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Link",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "45CDC83A-D8B7-4AA5-8166-F998A11AB292_stringValue",
+      "value": "Card link"
+    }
+  ],
+  "resizingConstraint": 49,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9765FE4-6C04-4B52-8C6F-17FE799B4877",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "08D2C6EF-E81B-4D7E-A515-B0C3CE63D8E3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

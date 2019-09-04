@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD6C6197-0C3B-45F5-A46D-89CF8BA6AF5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5FB5B6C9-ED2A-4F79-BDE8-75EFEEA5B883",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "670FB8AB-4E6D-4F1B-B32D-815A9961BD8A",
+    "height": 37,
+    "width": 102,
+    "x": 840,
+    "y": 524
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/With badge Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "648D738A-C06C-4BCD-9C74-1189DB4779AE",
+      "overrideName": "2133F12E-D539-4D37-82AB-67798241CA3F_stringValue",
+      "value": "Badge"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D54294F-40B9-4347-851B-D7B54263685C",
+      "overrideName": "0368D418-ED63-4D7B-AE5B-A387364CBCB0/890766B2-2E69-4219-9231-C6ECAAF3CACB_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9F51C09-F165-4A25-AD73-6B132D72728D",
+      "overrideName": "B15305DF-4EF0-45C5-87B3-E2DA6A44FC7B_symbolID",
+      "value": "DE05CA04-AD2C-4EFB-8AD6-018D75DB1890"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2DB4388-C705-4B62-9212-8A72B2C16157",
+      "overrideName": "D7F066B9-5047-4D91-942A-8B51857B6621_symbolID",
+      "value": "58776890-C4AF-4F64-90AE-098E0D6FC791"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDD1C800-181E-493C-B21D-20B6309B9C23",
+      "overrideName": "D7F066B9-5047-4D91-942A-8B51857B6621/557C48E9-D481-40B7-B3F6-6E37942F3DB8_stringValue",
+      "value": "Button"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53343185-7854-4E02-93A2-414FA4E47802",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ED9332C8-9181-409E-88B6-50DA45188577",
+  "verticalSpacing": 0
+}

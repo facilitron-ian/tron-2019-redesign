@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "590987D6-FF57-4094-A4A1-EB52B6553F4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "630CA7E1-EB7C-485E-BF4C-207D7B4A7130",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D5A7D9F-1BDC-400E-B544-DB98368CBB58",
+    "height": 60,
+    "width": 350,
+    "x": 165,
+    "y": 1172
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms/Input/With feedback",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E827F08-C178-4316-A796-D17B45F60A8A",
+      "overrideName": "613065F4-3998-485D-A4C5-7AF089CE309D_symbolID",
+      "value": "4CF8EEC6-01DB-4BB5-A0BC-D5AD9018A2C5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CD1CD33-F77F-49E0-B2E5-6A2CEAE8CC55",
+      "overrideName": "98EDA2C6-58D2-40DC-BEA6-C21CD86D8833/F00870A1-8E8C-4B1B-8BE7-F661BDA4FBA4_symbolID",
+      "value": "E1BBAC05-E609-4538-AB50-8B36BAD42A9D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "32517760-D642-44A0-8637-610FD15EDF01",
+      "overrideName": "613065F4-3998-485D-A4C5-7AF089CE309D/3DF41E23-CED2-4092-9DFB-7F9733DCA1F1_stringValue",
+      "value": "Warning! This is a danger feedback."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6950029-C402-4819-991F-DCDC31889B76",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C8260FFE-55E4-4993-8EE5-8A6D4CFCD017",
+  "verticalSpacing": 0
+}

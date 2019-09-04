@@ -1,0 +1,112 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B9CEEF5-CE9C-455C-B051-5CF529E15163",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A024A02A-CCCC-476C-A4DA-B1E477B37BFF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60077FCB-322E-4E28-BACF-D4A4D9EFDDC0",
+    "height": 395,
+    "width": 500,
+    "x": 775,
+    "y": 463
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modals/With Form Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58098FC8-4527-42D2-91EF-390DAB4C17F1",
+      "overrideName": "EDFB3099-F987-43DD-9D0C-08F744290ECF_symbolID",
+      "value": "D2A1A52C-0E6A-4878-81F2-880E8C649309"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87580E2C-9EEB-4A95-BB41-AE04E46AB110",
+      "overrideName": "9CD8C11E-F3A7-4631-B039-1878A6DD928F_stringValue",
+      "value": "Amount"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BA3F21F-9350-4FAE-B625-37454F99CFD9",
+      "overrideName": "DCA6A8B9-A48C-4133-B352-D2671CF22D51_stringValue",
+      "value": "Include a message for @Hermanya"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF845E3F-6A9D-4889-BFC3-28038CBBA35F",
+      "overrideName": "1CF6264B-4AFC-4F66-9F8B-FD16835E888F/203008D0-AF32-4733-817D-351A454731C3_stringValue",
+      "value": "Love your work ❤️"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "13607710-543A-4D73-A775-7B00CA14A4EE",
+      "overrideName": "8FFEE87E-2596-4B30-B2EF-14C6317E9D47_stringValue",
+      "value": "New message to @Hermanya"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC200E94-C2D0-4E54-BC70-7D43C53025D1",
+      "overrideName": "B5DB7040-15FF-4401-8638-E5FCA5A5978A/506E8B56-17C3-4123-9658-B0FFED780621_symbolID",
+      "value": "519FB08A-26D1-4C2D-917E-1F14052A7254"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6F668C4-3A71-4B70-84C2-51D70096BA42",
+      "overrideName": "B5DB7040-15FF-4401-8638-E5FCA5A5978A/9028F530-2371-44EC-9519-E737F1E2F566_symbolID",
+      "value": "97D0B199-85C7-4087-AE39-9C213ACDA89D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A5FEF06-128A-4AA4-ACA6-C04D96783360",
+      "overrideName": "B5DB7040-15FF-4401-8638-E5FCA5A5978A/9028F530-2371-44EC-9519-E737F1E2F566/6BC7E0A1-D020-4DE1-BD0B-53E9306F271A_stringValue",
+      "value": "Donate"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39F6A345-A2A7-4652-9FEE-D4FB6E883F55",
+      "overrideName": "50E39053-ADE1-4D21-8DB7-314CA266E622/506E8B56-17C3-4123-9658-B0FFED780621_symbolID",
+      "value": "3A9A6B7F-2476-46AB-AA6D-452184EDD797"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AB0C933-E2CC-43E2-A964-2E08F49DE890",
+      "overrideName": "50E39053-ADE1-4D21-8DB7-314CA266E622/9028F530-2371-44EC-9519-E737F1E2F566/35B785F6-64FA-4219-B3E0-76312401CA85_stringValue",
+      "value": "Exit"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0AA6F134-160A-4A79-8E63-EC91FF84088C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E60BD542-C4A5-4DD4-882B-664F4B230FE0",
+  "verticalSpacing": 0
+}

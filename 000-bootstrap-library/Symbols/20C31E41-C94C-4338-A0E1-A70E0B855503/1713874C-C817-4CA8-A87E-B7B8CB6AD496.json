@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1713874C-C817-4CA8-A87E-B7B8CB6AD496",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF12A7DF-E16B-48D3-9559-0ADDDC081497",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7794C67E-8466-45E0-8460-55E33F746896",
+    "height": 128,
+    "width": 400,
+    "x": 0,
+    "y": 259
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "⚙️/🎨/Transparent",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A4F14FE-3C75-467F-B4EA-3343613E93D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4D83A3AB-813C-4E60-B000-B3CFB8EC336B",
+  "verticalSpacing": 0
+}

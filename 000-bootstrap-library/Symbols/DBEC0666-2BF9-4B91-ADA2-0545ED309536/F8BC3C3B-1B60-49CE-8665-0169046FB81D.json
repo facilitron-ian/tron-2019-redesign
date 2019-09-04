@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8BC3C3B-1B60-49CE-8665-0169046FB81D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "142B1C80-39F0-4A2F-A345-2B00EB05DED2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BD89B80-62A7-4AA5-9A22-5290ECC8A491",
+    "height": 36,
+    "width": 135,
+    "x": 293,
+    "y": 152
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Regular",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99CB685E-4A80-4F0E-8399-3A17D8D299F9",
+      "overrideName": "9028F530-2371-44EC-9519-E737F1E2F566/35B785F6-64FA-4219-B3E0-76312401CA85_stringValue",
+      "value": "Go somewhere"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "125F32B3-B920-471B-9595-B68DC0931282",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C688629B-A7B2-42DA-B063-9D04C1B4C363",
+  "verticalSpacing": 0
+}

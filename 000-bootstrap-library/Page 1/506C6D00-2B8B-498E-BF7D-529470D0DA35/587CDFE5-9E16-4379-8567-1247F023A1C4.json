@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "587CDFE5-9E16-4379-8567-1247F023A1C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FE9469D-257E-48F1-85D6-1E37E612125A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CFAD6E8F-70E3-4D06-9B43-F50BDEA7AA39",
+    "height": 18,
+    "width": 57,
+    "x": 260,
+    "y": 197
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Badge/Contextual Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7FFA0522-C49D-4F9C-BBF3-D8487F74A45A",
+      "overrideName": "24A3B3AE-269F-48AC-ADCA-B131143D823C_symbolID",
+      "value": "3C6724C1-5622-4308-ADCF-0F7EB164A9EB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3D03D25-28EE-45D3-AE32-93F6AB2537D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6E32803D-3E3E-4F5D-B106-0BDAF9E34C5D",
+  "verticalSpacing": 0
+}

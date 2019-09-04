@@ -1,0 +1,90 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "66DE28E2-36DA-4039-9823-BCC01A2AE003",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1869,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A0A26B1-3B9C-4E76-BF68-67DACBECFA4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C67763FB-E179-42DC-A26F-19DD7ED51A56",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A80F64BB-9718-4E96-B74F-B327403D71B0",
+    "height": 36,
+    "width": 81,
+    "x": 287,
+    "y": -36
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DBF2417D-F80B-4FB5-A28A-26735EF89A56",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "831C1293-D289-4889-A53B-F70AA8FF1789"
+    }
+  ],
+  "name": "⚙️/Buttons/🎨/Outline/Success",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "207CF55B-120A-4C1D-BC7B-78727ABE8565",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "539307A2-D2A7-44B7-B228-ED92E5B5C805",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "01C9A0C3-D7ED-4C3C-B64E-F16988F58816",
+    "guides": [
+      -219
+    ]
+  }
+}

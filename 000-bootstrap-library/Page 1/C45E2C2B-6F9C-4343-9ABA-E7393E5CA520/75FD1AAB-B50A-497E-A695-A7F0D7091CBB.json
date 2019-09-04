@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "75FD1AAB-B50A-497E-A695-A7F0D7091CBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 210,
+    "width": 725,
+    "x": 165,
+    "y": 1209
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/Lead with menu",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04D8C88B-2BD7-4725-9FD2-B8FB38BF32D3",
+      "overrideName": "F8BC3C3B-1B60-49CE-8665-0169046FB81D/506E8B56-17C3-4123-9658-B0FFED780621_symbolID",
+      "value": "519FB08A-26D1-4C2D-917E-1F14052A7254"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F3A785C-7D20-43A5-BDFB-933E1557917C",
+      "overrideName": "F8BC3C3B-1B60-49CE-8665-0169046FB81D/9028F530-2371-44EC-9519-E737F1E2F566_symbolID",
+      "value": "97D0B199-85C7-4087-AE39-9C213ACDA89D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1AB1D01-2D27-4A21-8355-A4EA1F71A608",
+      "overrideName": "F8BC3C3B-1B60-49CE-8665-0169046FB81D/9028F530-2371-44EC-9519-E737F1E2F566/6BC7E0A1-D020-4DE1-BD0B-53E9306F271A_stringValue",
+      "value": "Confirm"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE36BF83-DA79-4BB8-9628-2C4E9218E2DF",
+  "verticalSpacing": 0
+}

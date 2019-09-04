@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "47ACD668-C93E-42AC-AC19-3FF0D5FFB5FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01F7136F-F79B-4DC5-94E0-103BEA4A343C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "679BFC3D-546E-41E6-BE21-B749BFEA6147",
+    "height": 57,
+    "width": 818,
+    "x": 165,
+    "y": 782
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navbar Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "838AE958-A628-49FE-8F0B-592D5F7DA57C",
+      "overrideName": "69930E69-0EB1-4745-8682-B7A8B575EDDB_symbolID",
+      "value": "B18F245A-BEE7-471F-B18C-84BC84B1C74D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59E613E4-0BE2-4547-8D45-0915EE717735",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DFF039DB-EEC6-4CE2-94A3-CA1CE0F09CB0",
+  "verticalSpacing": 0
+}

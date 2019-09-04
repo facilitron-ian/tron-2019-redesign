@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2F41D56-9E63-43B3-B0E3-16D23484F5F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 587,
+    "x": 22,
+    "y": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DF4B3D94-42DC-4E13-BE0E-36D19E2D2034"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D7FB1AA-EC40-4258-BAC3-8E9A7D22AE91"
+    },
+    {
+      "class": "rectangle",
+      "id": "2999A6E3-A552-402A-9EB3-B890467F7BF7"
+    },
+    {
+      "class": "group",
+      "id": "7B650438-645B-4E69-A5F6-8FC74E3B9FF0"
+    }
+  ],
+  "name": "Progress/30%",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
