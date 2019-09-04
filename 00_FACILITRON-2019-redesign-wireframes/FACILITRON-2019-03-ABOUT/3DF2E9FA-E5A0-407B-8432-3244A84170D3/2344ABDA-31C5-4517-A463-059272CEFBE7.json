@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2344ABDA-31C5-4517-A463-059272CEFBE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C8B079D-CC75-490A-A61B-1B7997166FDE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A228EB50-19CE-4A01-ACD1-B888839E0C06",
+    "height": 400,
+    "width": 368,
+    "x": 817,
+    "y": 2013
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Team-member Copy 12",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3841A969-D019-4CF1-BC86-42856EB75208",
+      "overrideName": "7EB046CA-546A-42E3-8B4A-6DD4EFFE15AA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/96eca0a52f7a5d7aabb0e261d1b40cf3a117efa5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "134F8A3A-D23C-4719-B8B9-6612A2849FC9",
+      "overrideName": "2026C7AE-6CDE-4FA1-8471-554167828FA0_stringValue",
+      "value": "Head of Product"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5F8C0D9-1D35-439F-A410-0D9C688E1B83",
+      "overrideName": "7512A331-AC75-4CFC-8F0B-84D953743F37_stringValue",
+      "value": "Hao Liu"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68D55818-B041-4A8E-B551-4F32420BFED4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C8F39742-20F9-49B8-B929-96096C083BAD",
+  "verticalSpacing": 0
+}

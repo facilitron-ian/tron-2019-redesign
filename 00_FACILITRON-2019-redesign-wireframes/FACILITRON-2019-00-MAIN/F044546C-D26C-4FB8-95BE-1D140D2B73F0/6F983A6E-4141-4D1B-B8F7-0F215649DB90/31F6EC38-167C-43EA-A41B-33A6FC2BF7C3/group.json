@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "31F6EC38-167C-43EA-A41B-33A6FC2BF7C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9CBFFD80-B3EA-4ADC-AA95-2AD123CCC330",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "28B4143A-5465-4ABB-899C-FB65BB49FD23",
+    "height": 48,
+    "width": 48,
+    "x": 1068,
+    "y": 135
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "10BC4D15-8042-4FF4-B257-63F57F0484D7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "23FE2750-FC91-40B9-B85F-1EFAC697A5B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1C1A47E-C388-4150-9220-91EF3DD47B27"
+    }
+  ],
+  "name": "baseline-forum-24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D07941D7-9DB4-4DDC-B390-3BD4B1BE1AC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1DE3A78A-9E98-4656-AC2B-104C03B4DAA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -909,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "BF062733-4427-419C-889E-3C2A52378BC3"
+    },
+    {
+      "class": "artboard",
+      "id": "55096A43-FA26-4E4D-8183-849C20A9A326"
+    },
+    {
+      "class": "artboard",
+      "id": "D9C11E5B-AA7B-4B75-8CC2-355D0E786C88"
+    },
+    {
+      "class": "artboard",
+      "id": "38A22259-E371-4C52-A0EF-B5743904BF9D"
+    },
+    {
+      "class": "artboard",
+      "id": "A5CB40AE-92F0-421D-B53E-FCC74BB6BF48"
+    },
+    {
+      "class": "artboard",
+      "id": "949DDF47-078C-4F0C-BC4B-29682A25F1E8"
+    },
+    {
+      "class": "artboard",
+      "id": "D975BCC2-5C8D-4197-A078-C354BC8C7E99"
+    },
+    {
+      "class": "artboard",
+      "id": "5BA1FE3D-6670-432B-87CF-924F40CF2BE2"
+    }
+  ],
+  "name": "FACILITRON-2019-04-NEWS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -686,
+    "guides": [
+    ]
+  }
+}

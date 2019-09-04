@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8ED0F501-8417-4AB1-9B16-0BE987F07A22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94F47E21-CD8C-405C-AFB0-08BB3C09B99C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "850367DA-9C28-4DB5-955A-EFE09679F99E",
+    "height": 90,
+    "width": 130,
+    "x": 565,
+    "y": 69
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Search",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "86DE3FBE-6F10-48DD-A76E-BF8F904AB38D_stringValue",
+      "value": "Search Facilities"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A18C2E4-EB93-4FDC-90DC-AC25010949B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B2160BB0-ACE9-4958-8CE0-37EEDC9A4AB6",
+  "verticalSpacing": 0
+}

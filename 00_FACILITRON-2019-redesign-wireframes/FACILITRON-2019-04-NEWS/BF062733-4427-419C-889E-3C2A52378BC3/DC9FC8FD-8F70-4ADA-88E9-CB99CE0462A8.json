@@ -1,0 +1,108 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374566,
+            "green": 0.2901752889,
+            "red": 0.2902216315
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
+          }
+        },
+        "length": 1817,
+        "location": 0
+      }
+    ],
+    "string": "Given the intense instructional focus across the country to improve student achievement, the conversations around creating, maintaining, and sharing public school buildings often get little attention. However, research reflects strong evidence that healthy environments for children support their ability to engage in school and has a positive impact on their academic performance. Additionally, sharing space with service organizations can provide community agencies with valuable space in providing support services for children.\n\nWhile school districts have become strong users of student data on achievement, they typically lag in the use of data to monitor and assess the effectiveness of school operations. In particular, the use of school facilities remains of great interest by most members of the community because schools are considered a community asset and many believe they should be fully accessible for community use. Yet, school districts often struggle to put in place policies and systems that help manage the balance between the facility use required for school programs and the expectations of accessibility by the community – all while ensuring there are adequate resources to maintain the facilities for everyone.\n\nThis paper outlines the challenges of school districts in facilities management and provides a contemporary solution to assist schools in leveraging their school building assets. Facilitron, a new provider of facility management and data solutions for public schools and colleges helps school districts develop systems to effectively monitor the total operations in their use of facilities to meet both the school and community needs. With new solutions, schools and communities are better positioned to share resources to support students, parents and members of their community."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC9FC8FD-8F70-4ADA-88E9-CB99CE0462A8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 442,
+    "width": 1170,
+    "x": 15,
+    "y": 1353
+  },
+  "glyphBounds": "{{0, 6}, {1168, 435}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "lineSpacingBehaviour": 2,
+  "name": "Given the intense in",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "17DEBC2B-4F49-4824-AE4D-D06C4A26C955",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374566,
+          "green": 0.2901752889,
+          "red": 0.2902216315
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans",
+            "size": 18
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 26,
+          "minimumLineHeight": 26
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

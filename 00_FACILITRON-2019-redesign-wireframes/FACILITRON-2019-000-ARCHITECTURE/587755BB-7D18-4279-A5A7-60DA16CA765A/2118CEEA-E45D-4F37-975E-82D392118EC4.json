@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2118CEEA-E45D-4F37-975E-82D392118EC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BBE2A3DB-1A94-46D0-9198-AA3E89ADA7A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFA710C2-B332-4DB9-B160-1F7667B7145D",
+    "height": 170,
+    "width": 130,
+    "x": 235,
+    "y": 646
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Article Copy 5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5695F651-6B3D-4454-A365-C6757B53C40C",
+      "overrideName": "D01452EE-08A5-4CB8-B4FC-BEE2D2881298_stringValue",
+      "value": "Faciity Mgmt Software"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3AED341-2328-45E4-94A6-F88F62FD1C24",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA9EE6BC-F6EC-4ED8-8345-A0EADDFD6145",
+  "verticalSpacing": 0
+}

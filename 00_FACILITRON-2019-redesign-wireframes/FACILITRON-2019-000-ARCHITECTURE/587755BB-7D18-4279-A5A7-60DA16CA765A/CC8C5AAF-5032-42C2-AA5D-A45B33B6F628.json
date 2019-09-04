@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC8C5AAF-5032-42C2-AA5D-A45B33B6F628",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C43C013-CB94-4B17-8585-EF20008D06C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F5AF1D0-67A3-4C3C-96E3-AE127F1DA3D9",
+    "height": 170,
+    "width": 130,
+    "x": 645,
+    "y": 1031
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Basic Copy 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "939D60B1-7868-4C48-B895-AAE71AF6683F",
+      "overrideName": "C1C9D152-56EA-42AE-BBCE-D02852328959_stringValue",
+      "value": "College of Marin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0ED674C9-085B-4172-AB2D-F0D19310FACA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "389F3823-299F-49D5-8870-79FB5459D068",
+  "verticalSpacing": 0
+}

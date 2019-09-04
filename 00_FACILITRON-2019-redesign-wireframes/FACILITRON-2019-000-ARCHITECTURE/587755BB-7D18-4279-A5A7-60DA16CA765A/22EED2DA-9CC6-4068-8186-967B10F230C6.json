@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "22EED2DA-9CC6-4068-8186-967B10F230C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "904275D7-8AAE-4558-945D-44F4D04F391C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "509C9B60-09EB-42EC-AC7A-1A694E88BBEF",
+    "height": 170,
+    "width": 130,
+    "x": 235,
+    "y": 1406
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Article Copy 13",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5695F651-6B3D-4454-A365-C6757B53C40C",
+      "overrideName": "D01452EE-08A5-4CB8-B4FC-BEE2D2881298_stringValue",
+      "value": "Facilitron vs Dude Sol"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E43DB360-FEA5-4663-BC6B-A586B81A8BC9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA9EE6BC-F6EC-4ED8-8345-A0EADDFD6145",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "67868400-672B-4603-8B6B-F25947B04FFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF294FC7-EDFD-4BD6-827F-DED071EE2BAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E08F2B9-0DB8-4E04-BB9F-BB5CA28767BF",
+    "height": 170,
+    "width": 130,
+    "x": 1427,
+    "y": 646
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "News Copy 4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCD5454A-681C-4164-921E-6B26CFECDA8F",
+      "overrideName": "36FDF829-84B9-4183-BEE6-554C782ACBAC_stringValue",
+      "value": "The Team"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5170CDC-08AF-4F7F-91F2-0EE00B883105",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F84D7C7E-A501-4E54-874E-EE23B2BA8502",
+  "verticalSpacing": 0
+}

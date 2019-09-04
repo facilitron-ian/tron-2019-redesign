@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5CB9EAEA-9384-4B8F-B222-35762505EBF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8F6797E-17A1-48FD-B30B-A00FD863940D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B9E3BDE-86DD-470C-9850-69899EE2ED6D",
+    "height": 170,
+    "width": 130,
+    "x": 794,
+    "y": 646
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Basic Copy 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "939D60B1-7868-4C48-B895-AAE71AF6683F",
+      "overrideName": "C1C9D152-56EA-42AE-BBCE-D02852328959_stringValue",
+      "value": "Access to Data"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88EDFDA1-DE7A-47C2-ADF2-F3C94048E8F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "389F3823-299F-49D5-8870-79FB5459D068",
+  "verticalSpacing": 0
+}

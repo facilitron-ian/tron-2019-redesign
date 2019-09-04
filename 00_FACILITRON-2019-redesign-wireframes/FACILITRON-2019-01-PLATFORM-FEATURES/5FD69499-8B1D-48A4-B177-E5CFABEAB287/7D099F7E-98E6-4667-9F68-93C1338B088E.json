@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D099F7E-98E6-4667-9F68-93C1338B088E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E514A315-758C-4C34-BEC0-14C8033F247E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54AF51E5-7EF8-4C64-85CA-1E3FC5F371C0",
+    "height": 479,
+    "width": 470,
+    "x": 615,
+    "y": 4126
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "benefit-card copy 13",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D9BCB35-DE61-4BEF-8340-ABBBE129B705",
+      "overrideName": "AC9A530C-1A37-4885-B446-EB40E8776487_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e306f40d7b5ecafaba8ab76071c9a8cd84774a4a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94AA1D5E-5CEB-4D71-B82F-D7E0859FD385",
+      "overrideName": "12F06887-F639-4291-BB48-3598A40BDFC4_stringValue",
+      "value": "We work with hundreds of districts just like yours and can assist your administrators through our shared knowledge."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01F073A1-52FD-47A4-8BDE-B042E1A5BB30",
+      "overrideName": "DC3DE764-9080-47B2-AE15-D08EA8C306B5_stringValue",
+      "value": "Recommendations on policy updates"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3CB938F6-D005-4F9C-9811-EC87B40902E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C1A43753-4D33-4835-A7CE-A91CAEC80D01",
+  "verticalSpacing": 0
+}

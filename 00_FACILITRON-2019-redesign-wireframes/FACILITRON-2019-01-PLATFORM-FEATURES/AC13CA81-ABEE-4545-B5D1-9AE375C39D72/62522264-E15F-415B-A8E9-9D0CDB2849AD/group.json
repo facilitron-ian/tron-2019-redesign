@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "62522264-E15F-415B-A8E9-9D0CDB2849AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 571,
+    "width": 1170,
+    "x": 15,
+    "y": 1131
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2F91BC7F-E678-4207-839E-0499594461F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F019D82-CC0E-41E4-8967-811DCB622FFA"
+    },
+    {
+      "class": "text",
+      "id": "44B03C16-96D0-432C-8739-EF6BC2584186"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18D49B71-2C5C-422F-97FB-F588A6822AD2"
+    }
+  ],
+  "name": "organize-schedules",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

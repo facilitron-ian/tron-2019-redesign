@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF7BC683-0989-44C7-B4B8-A3345B64863A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6E67102-0014-4F43-9670-2CDD75CD178A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B057812E-6067-459D-ADEC-C413EEE37B78",
+    "height": 400,
+    "width": 368,
+    "x": 417,
+    "y": 1067
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Team-member Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3841A969-D019-4CF1-BC86-42856EB75208",
+      "overrideName": "7EB046CA-546A-42E3-8B4A-6DD4EFFE15AA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d7e857d79a99994841efeebb9a307f5905b1c9a4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C25DDC23-471F-4F2E-899A-9214052C8B86",
+      "overrideName": "2026C7AE-6CDE-4FA1-8471-554167828FA0_stringValue",
+      "value": "CMO"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95BA58B0-C0E8-4915-AC1F-3C1726B2DEA1",
+      "overrideName": "7512A331-AC75-4CFC-8F0B-84D953743F37_stringValue",
+      "value": "Trent Allen"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C27D4AF3-D495-4C4C-832F-0F46AF939F09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C8F39742-20F9-49B8-B929-96096C083BAD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EEF3B004-A702-4DD9-BDD5-9488760F2BFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C41F8E17-E839-41D1-AFD6-6864875FE2F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0939D9EF-2088-4813-9174-7AA511A42399",
+    "height": 400,
+    "width": 368,
+    "x": 817,
+    "y": 1067
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Team-member Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3841A969-D019-4CF1-BC86-42856EB75208",
+      "overrideName": "7EB046CA-546A-42E3-8B4A-6DD4EFFE15AA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3d0f5a1d53c552f8b0dafd99a6d46722373b84a1.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "134F8A3A-D23C-4719-B8B9-6612A2849FC9",
+      "overrideName": "2026C7AE-6CDE-4FA1-8471-554167828FA0_stringValue",
+      "value": "Head of Accounts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5F8C0D9-1D35-439F-A410-0D9C688E1B83",
+      "overrideName": "7512A331-AC75-4CFC-8F0B-84D953743F37_stringValue",
+      "value": "Adelyn Lee"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E19509FB-CC0E-43DA-9DF7-E838E31E32F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C8F39742-20F9-49B8-B929-96096C083BAD",
+  "verticalSpacing": 0
+}

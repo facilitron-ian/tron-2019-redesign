@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92DBE732-3747-4F31-ABE7-6AF11BC4D6A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 479,
+    "width": 470,
+    "x": 115,
+    "y": 1852
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "benefit-card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "769FEFAC-5FA4-4C49-84E7-43270B3C634E",
+      "overrideName": "AC9A530C-1A37-4885-B446-EB40E8776487_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ca055e3a21a3e1838c4cdd3b0752440359c3a347.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43ED7A96-9E02-409F-AF98-7CC289F9F5BF",
+      "overrideName": "DC3DE764-9080-47B2-AE15-D08EA8C306B5_stringValue",
+      "value": "Parent sites for districts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C9F82DD-7C29-4CE4-8E29-F50FD9192470",
+      "overrideName": "12F06887-F639-4291-BB48-3598A40BDFC4_stringValue",
+      "value": "District sites provide an overview of all of the schools in the district, with their facilities."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C1A43753-4D33-4835-A7CE-A91CAEC80D01",
+  "verticalSpacing": 0
+}

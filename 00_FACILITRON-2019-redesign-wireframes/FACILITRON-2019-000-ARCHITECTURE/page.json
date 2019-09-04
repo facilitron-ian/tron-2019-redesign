@@ -1,0 +1,82 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "68CDDB49-B3DF-45AD-BC24-925DD374EFBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -311,
+    "do_objectID": "A26A1FD8-0F13-44D7-BAEA-300BE91C5EC4",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "587755BB-7D18-4279-A5A7-60DA16CA765A"
+    }
+  ],
+  "name": "FACILITRON-2019-000-ARCHITECTURE",
+  "nameIsFixed": true,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.animaPageID": "0340F9D6-0387-4240-9F1D-278B99F0865C",
+      "com.animaapp.uses.anima": 1,
+      "draft:dcf2ec4117e1e22668b04c5a325b7204": "https://projects.animaapp.com/#/p/qH8GpSe/J69ivx1/a000architecture/prototype",
+      "pid": "5d0a359457b93c3cf58d80a2"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -189,
+    "do_objectID": "46819AEA-3602-4B2B-A75E-D8C15659A403",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "AC9A530C-1A37-4885-B446-EB40E8776487",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7A88781-EB4B-428E-85A3-B0568EB7375C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6F718256-8893-44CC-84D6-5C94288D24DB",
+    "height": 313,
+    "width": 471,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/607894d2a468e280c7d743f9869df9390e50661e.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "gym-rental-search",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E9A0286-766C-45A9-9CC7-029F1D1A2F4C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 323,
+            "enabled": 1,
+            "modelID": "constraint_ddd16db8-0e24-47b5-8988-bf0c1b389493",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 485.7143
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_95852ff4-730a-4f19-8dd9-a23147618178",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

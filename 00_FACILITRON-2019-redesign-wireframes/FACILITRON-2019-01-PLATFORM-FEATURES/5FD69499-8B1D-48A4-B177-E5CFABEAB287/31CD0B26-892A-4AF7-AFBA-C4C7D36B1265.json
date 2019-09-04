@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "31CD0B26-892A-4AF7-AFBA-C4C7D36B1265",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31532D5F-9977-406B-882F-F287EDC2A753",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32EB7B3A-320E-4EF8-A4E1-580118306539",
+    "height": 479,
+    "width": 470,
+    "x": 115,
+    "y": 3068
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "benefit-card copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D9BCB35-DE61-4BEF-8340-ABBBE129B705",
+      "overrideName": "AC9A530C-1A37-4885-B446-EB40E8776487_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e306f40d7b5ecafaba8ab76071c9a8cd84774a4a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C621E3F-DC5E-446C-BD80-6AB05B664A9C",
+      "overrideName": "DC3DE764-9080-47B2-AE15-D08EA8C306B5_stringValue",
+      "value": "Establish best practices…"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94AA1D5E-5CEB-4D71-B82F-D7E0859FD385",
+      "overrideName": "12F06887-F639-4291-BB48-3598A40BDFC4_stringValue",
+      "value": "…by sharing intelligence provided by at-a-glance dashboards and reports."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CBC25CD1-3634-4B7C-A205-098AFCDC843E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C1A43753-4D33-4835-A7CE-A91CAEC80D01",
+  "verticalSpacing": 0
+}

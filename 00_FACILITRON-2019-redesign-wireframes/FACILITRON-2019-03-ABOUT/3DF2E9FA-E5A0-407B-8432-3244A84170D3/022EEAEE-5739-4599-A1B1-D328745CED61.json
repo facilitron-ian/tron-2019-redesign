@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "022EEAEE-5739-4599-A1B1-D328745CED61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "155A360B-A39D-46F5-80F3-9A32EEBAEBD7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F133065F-8B3E-45FA-B546-D8961D6CEDCD",
+    "height": 400,
+    "width": 368,
+    "x": 417,
+    "y": 627
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Team-member Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3841A969-D019-4CF1-BC86-42856EB75208",
+      "overrideName": "7EB046CA-546A-42E3-8B4A-6DD4EFFE15AA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/22e0e44e0adc738453b126266257825c088a5896.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C25DDC23-471F-4F2E-899A-9214052C8B86",
+      "overrideName": "2026C7AE-6CDE-4FA1-8471-554167828FA0_stringValue",
+      "value": "President"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95BA58B0-C0E8-4915-AC1F-3C1726B2DEA1",
+      "overrideName": "7512A331-AC75-4CFC-8F0B-84D953743F37_stringValue",
+      "value": "Mike Kapul"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2AE13D9-B508-4F3D-B468-C9EE5B78893E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C8F39742-20F9-49B8-B929-96096C083BAD",
+  "verticalSpacing": 0
+}

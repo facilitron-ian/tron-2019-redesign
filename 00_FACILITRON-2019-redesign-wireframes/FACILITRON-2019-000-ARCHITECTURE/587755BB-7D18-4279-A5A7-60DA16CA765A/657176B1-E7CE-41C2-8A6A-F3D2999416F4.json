@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "657176B1-E7CE-41C2-8A6A-F3D2999416F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "412BB31A-7B95-4696-831B-711B155B137B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A22FD94B-5CE7-4037-B47C-E4DB05983A7E",
+    "height": 170,
+    "width": 130,
+    "x": 1427,
+    "y": 1026
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "News Copy 6",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A465DFE0-3047-478F-9C5D-09B2102234E5",
+      "overrideName": "6492B01A-17F1-40F9-A901-E78214B44B86_stringValue",
+      "value": "Contact Us"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0931810-F1A5-4BBE-9ED4-72D9D9F2BF57",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD2E948E-A3BB-454F-AB31-7A2A116E1803",
+  "verticalSpacing": 0
+}

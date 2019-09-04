@@ -1,0 +1,133 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5329052D-764C-4C94-8FAE-51919068B296",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C783B86-2F4F-4816-BA0A-36FD87987905",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "835078CC-C6FE-4F06-9831-A00DA1FCBD96",
+    "height": 474,
+    "width": 1425,
+    "x": 135,
+    "y": 3540
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2289F583-1CE0-4510-823B-137D6BDCB895"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F9B5868F-CABF-4C8D-AEF0-29F7416098A8"
+    },
+    {
+      "class": "rectangle",
+      "id": "02DD720E-98E5-41AD-9E81-14AAE45BAA8D"
+    },
+    {
+      "class": "rectangle",
+      "id": "2FF22232-7577-42B5-9C2D-6493966ECDC7"
+    },
+    {
+      "class": "rectangle",
+      "id": "8804B76B-E3EB-4F6E-8E93-B8DCA764B71F"
+    },
+    {
+      "class": "text",
+      "id": "A75A6292-CEB6-4CDC-9BC5-1F16318ECEE1"
+    },
+    {
+      "class": "text",
+      "id": "DA3ACECC-261E-49E5-BD2A-D7CD144E6B89"
+    },
+    {
+      "class": "text",
+      "id": "8DE7ED6E-FA05-4EAF-9D30-30C9602DCD63"
+    },
+    {
+      "class": "text",
+      "id": "D1C139B3-FA18-47ED-8A52-9A4879401B21"
+    },
+    {
+      "class": "text",
+      "id": "E66AE10E-6782-4241-B244-5D55B585D72D"
+    },
+    {
+      "class": "text",
+      "id": "716C346F-4B06-46D7-AA80-5B139B6F9DC6"
+    },
+    {
+      "class": "text",
+      "id": "DA7FEE4E-DC11-42DB-923F-CA0A21807009"
+    },
+    {
+      "class": "text",
+      "id": "7DBF8CCD-16E1-411E-93F5-67591B8F7C44"
+    },
+    {
+      "class": "text",
+      "id": "0AA36563-A1CB-47F1-90D9-D7595A177284"
+    },
+    {
+      "class": "group",
+      "id": "B1AED8C0-5771-421C-B9A6-B675DD411326"
+    },
+    {
+      "class": "text",
+      "id": "16B753AD-58ED-4335-85EA-EAA8BE65DD6F"
+    },
+    {
+      "class": "text",
+      "id": "C4F9E448-4451-4B0C-BFDD-7B8593BBC392"
+    },
+    {
+      "class": "text",
+      "id": "083092DB-82B8-4935-BB9E-7FF5F17E2A65"
+    },
+    {
+      "class": "text",
+      "id": "B371F10F-0C82-4F7D-93F1-DCA6E18F7F70"
+    },
+    {
+      "class": "text",
+      "id": "08FE6CAE-06E2-4807-8B52-AD388CA54292"
+    },
+    {
+      "class": "text",
+      "id": "E906D164-EF0B-4A96-9518-E48059E8EEDB"
+    }
+  ],
+  "name": "facilitron_success_stories",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A0916B8-A045-4885-ACE2-6FF4289ADD91",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

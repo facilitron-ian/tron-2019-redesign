@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF322A53-1E67-41F4-BBAC-E6BDEE9313E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD690944-D3AE-416D-B42B-48D0D3E8F9E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B8ED778-F115-450C-A193-6DAB40AF6B86",
+    "height": 41.66666666666666,
+    "width": 50.00000000000006,
+    "x": 451.0416666666667,
+    "y": 4.166666666666666
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CD002B4D-28B1-467F-9D0D-DD465164FBF0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5DA99011-E0B0-430E-8B6B-E453A31C8388"
+    }
+  ],
+  "name": "Twitter-black",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADD648E6-7CB5-488E-AC80-847710E71E7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

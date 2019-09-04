@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C96E95C7-5528-409D-BC3A-5272766D30E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9BAED2D-05B2-4CD2-9079-26D4953E57B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0BABB47B-D157-40A6-9DC6-068D38521650",
+    "height": 170,
+    "width": 130,
+    "x": 645,
+    "y": 646
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Basic",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "939D60B1-7868-4C48-B895-AAE71AF6683F",
+      "overrideName": "C1C9D152-56EA-42AE-BBCE-D02852328959_stringValue",
+      "value": "ESUHSD Data"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FCE07259-5FD3-4622-ABA2-235F7343829C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "389F3823-299F-49D5-8870-79FB5459D068",
+  "verticalSpacing": 0
+}

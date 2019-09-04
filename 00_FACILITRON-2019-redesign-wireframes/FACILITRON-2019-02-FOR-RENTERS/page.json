@@ -1,0 +1,92 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B64E869-FA85-4CFB-959E-D0B415509951",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -909,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "ACDC4BCB-141B-47DB-80AC-02EEC9873FBA"
+    },
+    {
+      "class": "artboard",
+      "id": "CF6AAE8C-483B-4743-A74F-1C1D8B0FB760"
+    },
+    {
+      "class": "artboard",
+      "id": "872ED35F-40CE-4BB6-9A08-2F4DA4B4BDE0"
+    },
+    {
+      "class": "artboard",
+      "id": "2FDC002B-8761-456B-8E8C-6B465E7D264C"
+    },
+    {
+      "class": "artboard",
+      "id": "BC9685E3-2848-43AB-9AAF-A3E076DF22C3"
+    },
+    {
+      "class": "artboard",
+      "id": "2462E030-0425-4BF9-95C9-3A5564917E49"
+    }
+  ],
+  "name": "FACILITRON-2019-02-FOR-RENTERS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -686,
+    "guides": [
+    ]
+  }
+}

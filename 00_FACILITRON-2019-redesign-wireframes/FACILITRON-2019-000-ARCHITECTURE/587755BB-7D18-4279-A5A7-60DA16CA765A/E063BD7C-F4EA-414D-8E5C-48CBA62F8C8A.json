@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E063BD7C-F4EA-414D-8E5C-48CBA62F8C8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D53BC313-33DD-475A-847C-7D8F76C6D4D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCC90D78-47C7-45E9-88B5-F2788ABD60A3",
+    "height": 170,
+    "width": 130,
+    "x": 794,
+    "y": 1031
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Basic Copy 5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "939D60B1-7868-4C48-B895-AAE71AF6683F",
+      "overrideName": "C1C9D152-56EA-42AE-BBCE-D02852328959_stringValue",
+      "value": "Phil Lanoue Podcast"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4030B5D-42CE-41DE-9B54-69E960A3B10E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "389F3823-299F-49D5-8870-79FB5459D068",
+  "verticalSpacing": 0
+}

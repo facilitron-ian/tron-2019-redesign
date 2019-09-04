@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2235049C-A1E8-43E1-B3E2-8D423AEC2CEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C3FD542-837D-4E43-A45D-425C8796CD99",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19EFA25D-C37D-47EB-99BB-2C14BA037690",
+    "height": 479,
+    "width": 470,
+    "x": 115,
+    "y": 2381
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "benefit-card copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "769FEFAC-5FA4-4C49-84E7-43270B3C634E",
+      "overrideName": "AC9A530C-1A37-4885-B446-EB40E8776487_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b1cce884e6e812c596b556c0767e8e7bce394bf2.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43ED7A96-9E02-409F-AF98-7CC289F9F5BF",
+      "overrideName": "DC3DE764-9080-47B2-AE15-D08EA8C306B5_stringValue",
+      "value": "Facility pages"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C9F82DD-7C29-4CE4-8E29-F50FD9192470",
+      "overrideName": "12F06887-F639-4291-BB48-3598A40BDFC4_stringValue",
+      "value": "Facility pages display photos, location, description, capacity, amenities, rates, and availability—all at a glance."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DFAAF008-6D00-4B6D-BB99-F0796AA1ACE3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C1A43753-4D33-4835-A7CE-A91CAEC80D01",
+  "verticalSpacing": 0
+}

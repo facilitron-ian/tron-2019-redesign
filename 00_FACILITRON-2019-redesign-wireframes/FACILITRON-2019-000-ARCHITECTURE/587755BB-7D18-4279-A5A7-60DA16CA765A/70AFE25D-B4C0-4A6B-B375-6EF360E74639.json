@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "70AFE25D-B4C0-4A6B-B375-6EF360E74639",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06BEA9CC-5182-43FA-8668-94AEE35D5E71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD147794-946C-43F1-B9B5-0E315395C193",
+    "height": 90,
+    "width": 130,
+    "x": 1278,
+    "y": 1136
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "External Website Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16B71F47-2C50-459B-B67A-A6A18B452442",
+      "overrideName": "2C88209D-25EC-45AB-B3AB-95E253D058D7_stringValue",
+      "value": "Renter Knowledge Base"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F448DEA9-6EFF-4EED-B661-A5328D60FF50",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A42B617A-DD68-44B4-90FB-338F742DE355",
+  "verticalSpacing": 0
+}

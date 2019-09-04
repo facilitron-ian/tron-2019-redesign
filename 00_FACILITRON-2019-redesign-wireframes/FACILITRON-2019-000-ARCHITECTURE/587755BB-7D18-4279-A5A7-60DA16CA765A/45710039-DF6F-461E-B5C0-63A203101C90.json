@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "45710039-DF6F-461E-B5C0-63A203101C90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D29F97FE-1CBB-44B5-B7C1-0550A6018AAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31C63051-62B6-4C73-9ECF-493909C19CB8",
+    "height": 170,
+    "width": 130,
+    "x": 235,
+    "y": 1596
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Article Copy 8",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5695F651-6B3D-4454-A365-C6757B53C40C",
+      "overrideName": "D01452EE-08A5-4CB8-B4FC-BEE2D2881298_stringValue",
+      "value": "Pricing"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58348E2B-2A32-4C11-88A0-21FD4E20F64C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CA9EE6BC-F6EC-4ED8-8345-A0EADDFD6145",
+  "verticalSpacing": 0
+}
