@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7FD15152-C9B5-407A-81D8-4AED73B388F6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "437FD888-B62C-4D3A-BAC2-C03CAC48631D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B8DE499-88AF-4939-AE2B-FB1A421BD82F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89C9B41A-CEA3-4511-8A09-68ACAFDAB040",
+    "height": 3637,
+    "width": 1200,
+    "x": 2966,
+    "y": -2454
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "A66B708D-C80B-45CC-A59A-16875ED9CDB2",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EF8C5C42-DB31-402D-9515-96BD9D9FCC22"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BCE857B4-A461-4581-AE91-925CF29EBF98",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4E49CAA1-7DAE-4BD2-A316-5EA3DF66E3EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D41B873B-CCC0-4C27-B669-8982C2A458DA"
+    },
+    {
+      "class": "text",
+      "id": "57B1243C-1C51-474B-9F9D-4EF1CF7D567E"
+    },
+    {
+      "class": "text",
+      "id": "9349C18E-5464-4E0B-9663-2A0CC1DFF2D9"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "BCBA9507-B0E9-4976-A281-12772BE9BD0B",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "01platform-features/07-facilitron-vs-dude-solutions",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F219E64-0E2F-42D1-A4CB-C6F462923FD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "k6yXHwW7lkJ8E6Bg4Qs3d9rgKz5ER82U/Uj9lDP5NtY="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AEC140A3-4787-4AF1-9A5A-10848BDB9BBC",
+    "guides": [
+    ]
+  }
+}

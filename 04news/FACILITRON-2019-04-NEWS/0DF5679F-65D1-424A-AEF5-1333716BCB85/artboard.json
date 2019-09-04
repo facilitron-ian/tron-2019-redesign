@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "719407C9-1F55-4544-BB2E-9DBC9BC954B9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0DF5679F-65D1-424A-AEF5-1333716BCB85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D1024E6-361F-4750-B5F6-61E4095BD402",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09C07885-82AB-48E1-B28D-4B42AA4FAC71",
+    "height": 4830,
+    "width": 1200,
+    "x": -809,
+    "y": 2737
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "858C5795-91D0-496D-B0DE-099BE17914F1",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "90694E94-E6C9-4437-A7EA-2B8D13CF8EDD"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8D5D0C17-0AA0-42FD-95D4-34845C522B98",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B61DC3A8-A980-4FE3-BF02-8A347891431F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "158DEE8B-A661-49C1-839A-15ABBBA60B90"
+    },
+    {
+      "class": "text",
+      "id": "BBD36D17-C22D-4A46-9DEA-6D13D60B278F"
+    },
+    {
+      "class": "text",
+      "id": "C423C7DD-B74B-4DC6-8B97-C71C85067309"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "F673E676-BFD6-4D5F-B1EB-0C120C0CF947",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "04news/02-facilitron-famous",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4639534-3AEF-459C-BC37-CAAD206E3D26",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "DDHrwQyxcHgC05HiwqvSvcc3wyRZFrPrGxaNb2HiqrU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EDC54B06-5B3E-49AA-B634-CD367D077BB7",
+    "guides": [
+    ]
+  }
+}

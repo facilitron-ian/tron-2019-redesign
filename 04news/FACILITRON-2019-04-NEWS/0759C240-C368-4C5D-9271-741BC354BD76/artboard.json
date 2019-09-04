@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "12C2095A-11DA-4460-9C1B-4C47FAA98CEF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0759C240-C368-4C5D-9271-741BC354BD76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A36342E-E750-44F4-BA16-F8B98B69EAE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25A4EDED-38A5-4A43-BDFE-9F1EABF771A3",
+    "height": 4830,
+    "width": 1200,
+    "x": 491,
+    "y": -11903
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "F24C4182-39D8-4C3A-9E9D-555F5E0ADCC5",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C492E05A-F2FB-4634-B99D-E1894D2E9C61"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7C72AEA2-5224-4603-B32B-F9F95E746442",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8539DBC2-97D7-47B3-880D-B343F6AEDC57"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF430801-2C41-468A-AD1A-AD6ECD4141A3"
+    },
+    {
+      "class": "text",
+      "id": "83DA5072-28AA-44E5-82F8-E9C2FCB6475B"
+    },
+    {
+      "class": "text",
+      "id": "30057F7C-3721-456D-BE4B-38DDCFCF01A8"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "DD0F5622-460B-4140-B1D4-20A827BA7F89",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "04news/01-case-studies/ESUHSD",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C038FFD8-9F3B-491B-B82D-CD70B47CC129",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "DDHrwQyxcHgC05HiwqvSvcc3wyRZFrPrGxaNb2HiqrU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4CD1D1C7-7A15-40EF-BC26-AC61F933C1F6",
+    "guides": [
+    ]
+  }
+}

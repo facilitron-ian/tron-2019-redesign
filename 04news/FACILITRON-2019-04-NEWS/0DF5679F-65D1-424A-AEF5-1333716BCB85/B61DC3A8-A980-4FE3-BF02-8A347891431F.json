@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B61DC3A8-A980-4FE3-BF02-8A347891431F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "478E117A-1FE9-4E85-B077-F86E271B0665",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C94F3B23-1C8F-474D-838B-53C370C85A3B",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "231C479E-5DE9-4C27-9454-3BA4C6916980",
+      "overrideName": "CB098590-9FEF-44F1-8993-EE075FF2D5FB_stringValue",
+      "value": "Facilitron Famous"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DC1B541-531D-41D7-BE48-4C4B593CE31F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CBA090B0-468F-42D6-8489-C6FCEE8ACD7C",
+  "verticalSpacing": 0
+}

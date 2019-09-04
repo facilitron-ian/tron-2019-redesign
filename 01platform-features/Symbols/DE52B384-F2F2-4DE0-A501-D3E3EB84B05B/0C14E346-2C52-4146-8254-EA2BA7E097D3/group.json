@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C14E346-2C52-4146-8254-EA2BA7E097D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 35.06493506493506,
+    "width": 150,
+    "x": 15,
+    "y": 21.00000000000001
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3839AC1B-19F9-4A83-A6C0-B2AEE8621A8E"
+    },
+    {
+      "class": "shapePath",
+      "id": "ADD3918E-96EA-460A-A64D-4FEC81D778BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37FD59B7-1097-4F8A-ABC4-653279AB8B79"
+    },
+    {
+      "class": "shapePath",
+      "id": "4E78DC6C-1912-4CCA-BB96-35E1B11CF578"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97BEFD9B-0FC6-44ED-AABF-0D012D5C878E"
+    },
+    {
+      "class": "shapePath",
+      "id": "2C6E6E2C-D887-4A33-BBDB-54240393ABA8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E84662EA-A1AF-4336-B149-38237BBD8F9E"
+    },
+    {
+      "class": "shapePath",
+      "id": "8EECBD98-BA22-46FE-9F01-02125DB5AFCD"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCDADE45-A907-4294-894E-229DE5632A08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "236BD633-89BE-4C5B-A136-8B880FDC1B66"
+    },
+    {
+      "class": "shapePath",
+      "id": "5134D993-0B6C-4699-BE8B-01D3961AFFB2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9032202-E2EC-42E2-9E9A-6CB56F19F801"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED025051-1345-4785-BB00-849781BADBCB"
+    }
+  ],
+  "name": "facilitron-logo-reversed",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

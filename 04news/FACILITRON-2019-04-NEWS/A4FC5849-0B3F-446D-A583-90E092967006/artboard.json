@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C9896CB5-15E6-4296-9AF4-E2EC646DC5C3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4FC5849-0B3F-446D-A583-90E092967006",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A0EA5B20-2FBF-4020-BE1E-A060DEC15AAA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2DBE93BB-A4DF-4678-A61F-407BC58DB436",
+    "height": 4830,
+    "width": 1200,
+    "x": 491,
+    "y": -2183
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "ECF79C1F-8954-4D9A-A384-17211EE15121",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "57170237-7AAC-44D0-B736-A54AFD6079B0"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A3E4DB6F-EB46-4B03-A057-D63C0515C9DF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "83D7EBC4-26C4-4E33-8289-7DA9C7DFECC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BF7A0D1-B58E-4674-AB47-0A26FE365DCF"
+    },
+    {
+      "class": "text",
+      "id": "999A661F-843B-4B48-AB20-0EFC72A6578C"
+    },
+    {
+      "class": "text",
+      "id": "3FDD5884-C88F-46AC-97B3-204ABFDF619D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "D0876856-274F-4C34-BF9C-1F6606088005",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "04news/01-case-studies/college-of-marin",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A5FBAB7-9AE2-4852-8362-735A94820CC3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "DDHrwQyxcHgC05HiwqvSvcc3wyRZFrPrGxaNb2HiqrU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D22D956D-09FA-4BD5-9F9C-8DA9ABBAB787",
+    "guides": [
+    ]
+  }
+}

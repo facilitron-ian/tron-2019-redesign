@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "73A28F04-ABEB-443D-8D74-0F3269A73B8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A27D3B6-E638-4CA1-94DA-6EA7F46E6B49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B89DD64-EDD5-4499-9F1B-4E56CB7E4B70",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "992C4D97-7DE5-4EB7-B1CE-9B96C0793502",
+      "overrideName": "8DCED3DF-5214-4DF7-BF8A-EB9CB396B9A0_stringValue",
+      "value": "Terms of Use"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B96EA360-BEDA-4ACC-9920-FA7BE3160B68",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "008DE65C-84DA-4913-972F-F7B5F11985D8",
+  "verticalSpacing": 0
+}

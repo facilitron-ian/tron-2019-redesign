@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B28675A-9556-4D11-AFBB-E9C502D32B99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FDADCA6-7D1E-49E4-A856-1C13F58FEFD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C34F17EE-6422-4EA6-BD7F-62259D7EDED7",
+    "height": 36,
+    "width": 150,
+    "x": 15,
+    "y": 21.00000000000001
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "facilitron-logo-reversed",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34370B50-BBB7-46C1-A0F5-2AD045AF7737",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD98717B-34E1-4279-AED8-4394C320EC7F",
+  "verticalSpacing": 0
+}

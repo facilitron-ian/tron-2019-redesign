@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "84F6487E-6836-4961-B6A7-08FA1462B136",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6B39B35-CDB2-43C5-978E-1274DC2DBDEE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A605764-593D-4440-B364-D01D138A59EA",
+    "height": 400,
+    "width": 368,
+    "x": 817,
+    "y": 2453
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Team-member Copy 13",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3841A969-D019-4CF1-BC86-42856EB75208",
+      "overrideName": "FBAA93CC-7788-4F2A-A40F-FD8F7BD65452_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3d0f5a1d53c552f8b0dafd99a6d46722373b84a1.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "134F8A3A-D23C-4719-B8B9-6612A2849FC9",
+      "overrideName": "9BDD185D-CECF-49EB-B490-2EFD9544367D_stringValue",
+      "value": "Head of Accounts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5F8C0D9-1D35-439F-A410-0D9C688E1B83",
+      "overrideName": "DE8C54DB-CA4C-48A4-8B6A-5A650FCBE144_stringValue",
+      "value": "Adelyn Lee"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7ACDFFE-1551-45BD-80BA-8F7139B613CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "768650CB-CADB-4F27-BE99-9FC716DF9757",
+  "verticalSpacing": 0
+}

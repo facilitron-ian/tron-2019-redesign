@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FEEE3B23-C2B5-432F-8E5E-653ABD6A972A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BAFDD88-8904-4787-8752-81E51A398CF1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B02870AA-9426-40CE-81E4-8A876CEA3435",
+    "height": 50,
+    "width": 218,
+    "x": 708,
+    "y": 64
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E791D22D-0251-4FAE-BBBB-0AB73068891A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6833348D-C7D8-4FFB-A82E-BA6F7746CDBD"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB684411-03AB-49C4-B9EA-31DE8A904E68"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABE27078-A7FC-48ED-B524-7A21E733BA6E"
+    },
+    {
+      "class": "shapePath",
+      "id": "6DC4C3C0-879C-4F95-A45B-067675A6DAEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC793E35-4789-4AAB-B9B0-1166C8D53E56"
+    },
+    {
+      "class": "shapePath",
+      "id": "2C81D925-3DB8-4458-9F0C-0AAAEBD2A455"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACAE94D6-9372-4CDD-89DC-32F8B048C51F"
+    },
+    {
+      "class": "shapePath",
+      "id": "56CA5C7B-7487-465B-8EF3-147B3B794AB6"
+    },
+    {
+      "class": "shapePath",
+      "id": "C09BFD05-E8FB-46A7-9D3A-08BA22A4E151"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04B4B4FC-AAB8-4929-A003-5E4660AE25EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "56CA4F02-187B-4F59-BD2A-A1B8B56B5B1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5E1AE35-E28A-4294-AA06-9EAFB64F9A0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1A93592-C994-4273-B21E-BB9B557C394D"
+    }
+  ],
+  "name": "facilitron-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "171DB949-6801-4C8D-81F4-51FE89762B60",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C3961D0-7491-4FF1-A8E0-06342CB5544B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FD36907-FCBB-4C1D-9DEE-26063C8CFA2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80E6CFE0-974E-4D4F-A55F-E410AB30A123",
+    "height": 501,
+    "width": 1200,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D68A8EA-8190-4164-BE73-17AE0FFDACED",
+      "overrideName": "0F36DB8C-55A4-40A2-A71A-FEFD3E4E488A_stringValue",
+      "value": "Facilitron Rentals for Religious Groups"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02E648FC-2BDC-4D9B-90D0-2FE04BB6D49F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4C856611-5FC4-4933-9934-13E078888D6C",
+  "verticalSpacing": 0
+}

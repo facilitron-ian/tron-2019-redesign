@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DB77737B-4B65-42E6-B71B-622FA0E28C0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6116410-9E66-498D-A143-50438F91B934",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39BABF04-FD52-416C-B368-9DE373688839",
+    "height": 479,
+    "width": 470,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DF24BEDD-AD84-470B-A143-E039C8AEA2EF"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "06616E56-9E16-46A5-A77F-9AB51F10EAD4"
+    },
+    {
+      "class": "bitmap",
+      "id": "2B64E46B-FE41-456D-B1AE-A169299A9A86"
+    }
+  ],
+  "name": "gym-rental-search",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "092EEA62-3232-44BF-9EE7-48D82D280B13",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
